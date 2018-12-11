@@ -1,0 +1,274 @@
+# Glade copyright 2017 Peardrop Design Systems. All rights reserved.
+# Glade release version 4.6.55 compiled on Sep  7 2018 10:54:15
+# Qt version 5.10.0 on 32 bit platform (little endian)
+# Compiled with Visual C++ version 13.1
+# Log file: Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/glade_11.12.2018_11.58.00.log
+# Username: 1108 Hostname: mineda.anagix.com
+# Current time: Tue Dec 11 11:58:00 2018
+# Operating system: Windows 7 SP 1 (6.1)
+# Number of CPUs: 6
+# Available memory: 31892 Mb
+# MAC address: E0:D5:5E:A3:54:E3
+# Display 0: Screen size (pixels): 1600 x 837
+# Logical dpi: 96.0 Physical dpi: 96.1
+# Display Scale Factor: 1.00
+# OpenGL vendor: VMware, Inc.
+# OpenGL renderer: llvmpipe (LLVM 5.0, 256 bits)
+# OpenGL version: 2.1 Mesa 17.2.3
+# Python version 2.7.4 (default, Apr  6 2013, 19:54:46) [MSC v.1500 32 bit (Intel)] for win32
+# PYTHONHOME is: Z:\opt\glade\glade4_win32
+# INFO: Reading global preferences file C:/users/1108/gladerc.xml
+# INFO: Loaded library basic from Z:/opt/glade/glade4_win32/basic
+# INFO: Reading library (version 540) /usr/local/share/MakeLSI/OpenRule1um/OpenRule1um
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell an21 view layout
+# INFO: Reading cell an31 view layout
+# INFO: Reading cell an41 view layout
+# INFO: Reading cell buf1 view layout
+# INFO: Reading cell buf2 view layout
+# INFO: Reading cell buf4 view layout
+# INFO: Reading cell buf8 view layout
+# INFO: Reading cell cellall view layout
+# INFO: Reading cell cinv view layout
+# INFO: Reading cell dcont view layout
+# INFO: Reading cell dff1 view layout
+# INFO: Reading cell dff1m2 view layout
+# INFO: Reading cell exnr view layout
+# INFO: Reading cell exor view layout
+# INFO: Reading cell inv1 view layout
+# INFO: Reading cell inv2 view layout
+# INFO: Reading cell inv4 view layout
+# INFO: Reading cell inv8 view layout
+# INFO: Reading cell na21 view layout
+# INFO: Reading cell na212 view layout
+# INFO: Reading cell na222 view layout
+# INFO: Reading cell na31 view layout
+# INFO: Reading cell na41 view layout
+# INFO: Reading cell nr21 view layout
+# INFO: Reading cell nr212 view layout
+# INFO: Reading cell nr222 view layout
+# INFO: Reading cell nr31 view layout
+# INFO: Reading cell nsubcont view layout
+# INFO: Reading cell or21 view layout
+# INFO: Reading cell or31 view layout
+# INFO: Reading cell pcont view layout
+# INFO: Reading cell psubcont view layout
+# INFO: Reading cell rff1 view layout
+# INFO: Reading cell rff1m2 view layout
+# INFO: Reading cell sff1 view layout
+# INFO: Reading cell sff1m2 view layout
+# INFO: Reading cell Via view layout
+# INFO: Rebinding library basic
+# WARNING: Library default not found, creating new library!
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().fileOpenLib()
+Opening library tsd_core_HEAD
+# INFO: Reading library (version 540) C:/users/1108/My Documents/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell ko_bgr view layout
+# INFO: Reading cell ko_tsd view layout
+# INFO: Reading cell ko_tsdnew view layout
+# INFO: Reading cell nch1x10 view layout
+# INFO: Reading cell nch1x20 view layout
+# INFO: Reading cell pch1x10 view layout
+# INFO: Reading cell pch1x20 view layout
+# INFO: Reading cell res4k view layout
+# INFO: Reading cell res500 view layout
+# INFO: Reading cell res980k view layout
+# INFO: Reading cell res98k view layout
+# INFO: Reading cell tsd_core view layout
+# INFO: Rebinding library tsd_core_HEAD
+# INFO: Rebinding library default
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().openCellView("tsd_core_HEAD", "ko_tsdnew", "layout", 1)
+# INFO: Opened cell ko_tsdnew view layout
+ui().fileOpenLib()
+ui().fileNewCell()
+# INFO: Opened cell res3p9k view layout
+# INFO: Set current layer to POL drawing
+ui().winRuler()
+# INFO: Ruler (4.500 4.000) (4.500 -17.000) length = 21.000
+# INFO: Set current layer to POL drawing
+ui().selectArea(26265, 1699, 26671, 884, 0)
+# INFO: Set current layer to POL drawing
+ui().selectPoint(3000, 4000, 0)
+ui().selectPoint(3000, 5000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (3.000, 5.000)
+# INFO: Adding path point #2 at (3.000, -18.000)
+# INFO: Created path with 2 points
+ui().selectPoint(3000, -18000, 0)
+# INFO: Set current layer to boundary drawing
+ui().selectPoint(3000, -18000, 0)
+ui().selectPoint(3000, -18000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (3.000, -18.000)
+# ERROR: Path has 1 points - will not be created!
+ui().selectPoint(3000, -18000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editRedo()
+# INFO: Redoing last create
+# INFO: Set current layer to boundary drawing
+ui().editPath()
+# INFO: Adding path point #1 at (3.000, -18.000)
+# INFO: Adding path point #2 at (4.000, -18.000)
+# INFO: Created path with 2 points
+ui().selectPoint(4000, -18000, 0)
+ui().selectPoint(3000, -21000, 0)
+ui().selectPoint(3000, -21000, 0)
+ui().properties("tsd_core_HEAD", "res3p9k", "layout")
+ui().selectPoint(3000, -21000, 0)
+ui().selectPoint(26500, -5000, 0)
+ui().selectPoint(5500, -20000, 0)
+ui().selectArea(5711, -19037, 18609, -19759, 0)
+ui().selectPoint(-12000, -12000, 0)
+ui().selectPoint(-500, -16000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(3000, -18000, 0)
+ui().properties("tsd_core_HEAD", "res3p9k", "layout")
+ui().selectPoint(3000, -18000, 0)
+ui().selectPoint(3000, -18000, 0)
+ui().selectArea(3048, -17070, 5131, -17952, 0)
+ui().selectArea(3088, -17631, 8375, -18073, 0)
+ui().editHierCreate()
+# WARNING: Please select objects to create a new cell from!
+ui().editPin()
+# INFO: Creating pin  on layer boundary at (3.000, -20.000) (5.000, -18.000)
+ui().selectPoint(4000, -19000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-1.000, 0.000)
+ui().selectPoint(3000, -19000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, 1.000)
+ui().selectPoint(4000, -18000, 0)
+ui().properties("tsd_core_HEAD", "res3p9k", "layout")
+ui().selectPoint(4000, -18000, 0)
+ui().fileOpenLib()
+Opening library bgr5_HEAD
+# ERROR: Can't read library file Z:/home/ko/ALBDATA/Glade/bgr5_HEAD/glade.lib: ?????????????
+# INFO: Rebinding library bgr5_HEAD
+# INFO: Rebinding library tsd_core_HEAD
+# INFO: Rebinding library default
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+# INFO: Closing library bgr5_HEAD
+ui().fileOpenLib()
+# WARNING: Reopening library default!
+Closing all windows
+# INFO: Reading library (version 540) Z:/home/ko/ALBDATA/Glade/bgr5_HEAD/default
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell bgr_pins view layout
+# INFO: Reading cell bgr_top view extracted
+# INFO: Reading cell bgr_top view layout
+# INFO: Reading cell dioblock view layout
+# INFO: Reading cell nch view layout
+# INFO: Reading cell nch1x10 view layout
+# INFO: Reading cell nch1x20 view layout
+# INFO: Reading cell nchblock view layout
+# INFO: Reading cell pch view layout
+# INFO: Reading cell pch1x10 view layout
+# INFO: Reading cell pch1x20 view layout
+# INFO: Reading cell pchblock view extracted
+# INFO: Reading cell pchblock view layout
+# INFO: Reading cell pchdiode view layout
+# INFO: Reading cell protection view layout
+# INFO: Reading cell res100k view layout
+# INFO: Reading cell res10k view layout
+# INFO: Reading cell res1meg view layout
+# INFO: Reading cell res3p9k view layout
+# INFO: Reading cell res3p9k_x2 view layout
+# INFO: Reading cell res3p9k_x3 view layout
+# INFO: Reading cell res3p9k_x4 view layout
+# INFO: Reading cell res4k view layout
+# INFO: Reading cell res500 view layout
+# INFO: Reading cell res980k view layout
+# INFO: Reading cell res98k view layout
+# INFO: Reading cell temp view layout
+# INFO: Rebinding library default
+# INFO: Rebinding library tsd_core_HEAD
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().openCellView("default", "res100k", "layout", 1)
+# INFO: Opened cell res100k view layout
+ui().winRuler()
+# INFO: Ruler (0.000 29.000) (71.000 29.000) length = 71.000
+ui().selectPoint(71000, 29000, 0)
+ui().winRuler()
+# INFO: Ruler (71.000 29.000) (71.000 0.000) length = 29.000
+# INFO: Saving global preferences file C:/users/1108/gladerc.xml
+# Normal exit.

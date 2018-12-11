@@ -1,0 +1,911 @@
+# Glade copyright 2017 Peardrop Design Systems. All rights reserved.
+# Glade release version 4.6.53 compiled on Aug 14 2018 14:33:41
+# Qt version 5.10.0 on 32 bit platform (little endian)
+# Compiled with Visual C++ version 13.1
+# Log file: Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6/glade_06.09.2018_17.04.13.log
+# Username: 1108 Hostname: mineda.anagix.com
+# Current time: Thu Sep 06 17:04:14 2018
+# Operating system: Windows 7 SP 1 (6.1)
+# Number of CPUs: 6
+# Available memory: 31892 Mb
+# MAC address: E0:D5:5E:A3:54:E3
+# Display 0: Screen size (pixels): 1280 x 657
+# Logical dpi: 96.0 Physical dpi: 95.9
+# Display Scale Factor: 1.00
+# OpenGL vendor: VMware, Inc.
+# OpenGL renderer: llvmpipe (LLVM 5.0, 256 bits)
+# OpenGL version: 2.1 Mesa 17.2.3
+# Python version 2.7.4 (default, Apr  6 2013, 19:54:46) [MSC v.1500 32 bit (Intel)] for win32
+# PYTHONHOME is: Z:\opt\glade\glade4_win32
+# INFO: Reading global preferences file C:/users/1108/gladerc.xml
+# INFO: Loaded library basic from Z:/opt/glade/glade4_win32/basic
+# INFO: Reading library (version 540) /usr/local/share/MakeLSI/OpenRule1um/OpenRule1um
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell an21 view layout
+# INFO: Reading cell an31 view layout
+# INFO: Reading cell an41 view layout
+# INFO: Reading cell buf1 view layout
+# INFO: Reading cell buf2 view layout
+# INFO: Reading cell buf4 view layout
+# INFO: Reading cell buf8 view layout
+# INFO: Reading cell cellall view layout
+# INFO: Reading cell cinv view layout
+# INFO: Reading cell dcont view layout
+# INFO: Reading cell dff1 view layout
+# INFO: Reading cell dff1m2 view layout
+# INFO: Reading cell exnr view layout
+# INFO: Reading cell exor view layout
+# INFO: Reading cell inv1 view layout
+# INFO: Reading cell inv2 view layout
+# INFO: Reading cell inv4 view layout
+# INFO: Reading cell inv8 view layout
+# INFO: Reading cell na21 view layout
+# INFO: Reading cell na212 view layout
+# INFO: Reading cell na222 view layout
+# INFO: Reading cell na31 view layout
+# INFO: Reading cell na41 view layout
+# INFO: Reading cell nr21 view layout
+# INFO: Reading cell nr212 view layout
+# INFO: Reading cell nr222 view layout
+# INFO: Reading cell nr31 view layout
+# INFO: Reading cell nsubcont view layout
+# INFO: Reading cell or21 view layout
+# INFO: Reading cell or31 view layout
+# INFO: Reading cell pcont view layout
+# INFO: Reading cell psubcont view layout
+# INFO: Reading cell rff1 view layout
+# INFO: Reading cell rff1m2 view layout
+# INFO: Reading cell sff1 view layout
+# INFO: Reading cell sff1m2 view layout
+# INFO: Reading cell Via view layout
+# INFO: Rebinding library basic
+# INFO: Reading library (version 540) .
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell nch1x10 view layout
+# INFO: Reading cell nch1x20 view layout
+# INFO: Reading cell pch1x10 view layout
+# INFO: Reading cell pch1x20 view layout
+# INFO: Reading cell res4k view layout
+# INFO: Reading cell res500 view layout
+# INFO: Reading cell res980k view layout
+# INFO: Reading cell res98k view layout
+# INFO: Reading cell tsd_core view layout
+# ERROR: Inst I0 (master library (null) cell unbound view unbound) instanced in cellview tsd_core_HEAD res980k layout is unbound!
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().fileOpenLib()
+ui().fileOpenLib()
+Opening library Hibikino_StdCell
+# INFO: Reading library (version 490) C:/users/1108/My Documents/IP-master/StdCell/Hibikino/Glade/Hibikino_StdCell
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer PWL purpose drawing
+# INFO: Creating layer CST purpose drawing
+# INFO: Creating layer ACT purpose drawing
+# INFO: Creating layer VTN purpose drawing
+# INFO: Creating layer VTP purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer NSL purpose drawing
+# INFO: Creating layer PSL purpose drawing
+# INFO: Creating layer CNA purpose drawing
+# INFO: Creating layer CNP purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer PAS purpose drawing
+# INFO: Creating layer CMT purpose drawing
+# INFO: Creating layer L0 purpose P0
+# INFO: Reading cell and2 view layout
+# INFO: Reading cell and2 view schematic
+# INFO: Reading cell and2 view symbol
+# INFO: Reading cell and2_or_inv view layout
+# INFO: Reading cell and2_or_inv view schematic
+# INFO: Reading cell and2_or_inv view symbol
+# INFO: Reading cell and3 view layout
+# INFO: Reading cell and3 view schematic
+# INFO: Reading cell and3 view symbol
+# INFO: Reading cell and4 view layout
+# INFO: Reading cell and4 view schematic
+# INFO: Reading cell and4 view symbol
+# INFO: Reading cell dff view layout
+# INFO: Reading cell dff view schematic
+# INFO: Reading cell dff view symbol
+# INFO: Reading cell dff_r view layout
+# INFO: Reading cell dff_r view schematic
+# INFO: Reading cell dff_r view symbol
+# INFO: Reading cell inv1 view layout
+# INFO: Reading cell inv1 view schematic
+# INFO: Reading cell inv1 view symbol
+# INFO: Reading cell inv1 view symbolP
+# INFO: Reading cell mux2 view layout
+# INFO: Reading cell mux2 view schematic
+# INFO: Reading cell mux2 view symbol
+# INFO: Reading cell nand2 view layout
+# INFO: Reading cell nand2 view schematic
+# INFO: Reading cell nand2 view symbol
+# INFO: Reading cell nand3 view layout
+# INFO: Reading cell nand3 view schematic
+# INFO: Reading cell nand3 view symbol
+# INFO: Reading cell nand4 view layout
+# INFO: Reading cell nand4 view schematic
+# INFO: Reading cell nand4 view symbol
+# INFO: Reading cell nch view layout
+# INFO: Reading cell nch view symbol
+# INFO: Reading cell nor2 view layout
+# INFO: Reading cell nor2 view schematic
+# INFO: Reading cell nor2 view symbol
+# INFO: Reading cell nor3 view layout
+# INFO: Reading cell nor3 view schematic
+# WARNING: Inst name I14 already exists, renaming to I14_6
+# INFO: Reading cell nor3 view symbol
+# INFO: Reading cell nor4 view layout
+# INFO: Reading cell nor4 view schematic
+# INFO: Reading cell nor4 view symbol
+# INFO: Reading cell or2 view layout
+# INFO: Reading cell or2 view schematic
+# INFO: Reading cell or2 view symbol
+# INFO: Reading cell or2_and_inv view layout
+# INFO: Reading cell or2_and_inv view schematic
+# INFO: Reading cell or2_and_inv view symbol
+# INFO: Reading cell or3 view layout
+# INFO: Reading cell or3 view schematic
+# INFO: Reading cell or3 view symbol
+# INFO: Reading cell or4 view layout
+# INFO: Reading cell or4 view schematic
+# INFO: Reading cell or4 view symbol
+# INFO: Reading cell pch view layout
+# INFO: Reading cell pch view symbol
+# INFO: Reading cell xnor2 view layout
+# INFO: Reading cell xnor2 view schematic
+# INFO: Reading cell xnor2 view symbol
+# INFO: Reading cell xor2 view layout
+# INFO: Reading cell xor2 view schematic
+# INFO: Reading cell xor2 view symbol
+# INFO: Rebinding library Hibikino_StdCell
+# INFO: Rebinding library tsd_core_HEAD
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().fileNewLib()
+# ERROR: Please specify a techfile to load!
+ui().fileNewLib()
+# INFO: Creating library default!
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+ui().openCellView("tsd_core_HEAD", "tsd_core", "layout", 1)
+# INFO: Opened cell tsd_core view layout
+ui().selectArea(175136, 86649, 185456, 72284, 0)
+ui().selectPoint(163500, 78500, 0)
+ui().selectPoint(113000, 80500, 0)
+# INFO: Set current layer to ML1 drawing
+ui().selectArea(118281, 83397, 118782, 82822, 0)
+ui().editPath()
+# INFO: Adding path point #1 at (116.000, 83.000)
+# INFO: Adding path point #2 at (116.000, 80.500)
+# INFO: Adding path point #3 at (84.500, 80.500)
+# INFO: Created path with 3 points
+ui().selectPoint(84500, 80500, 0)
+ui().selectArea(84803, 77350, 84947, 77350, 0)
+ui().selectPoint(84500, 76000, 0)
+ui().selectPoint(85000, 76000, 0)
+ui().selectPoint(84000, 76000, 0)
+ui().selectPoint(88500, 78000, 0)
+ui().selectPoint(88000, 78500, 0)
+ui().selectPoint(88000, 78500, 0)
+ui().selectPoint(87000, 80500, 0)
+ui().selectPoint(87500, 80500, 0)
+ui().selectPoint(87500, 78500, 0)
+ui().selectPoint(112000, 80500, 0)
+ui().selectPoint(112000, 78500, 0)
+ui().selectPoint(42500, 77500, 0)
+ui().selectPoint(42500, 76500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(116000, 83000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (116.000, 83.000)
+# INFO: Adding path point #2 at (116.000, 80.500)
+# INFO: Adding path point #3 at (84.500, 80.500)
+# INFO: Created path with 3 points
+ui().selectPoint(84500, 80500, 0)
+ui().selectPoint(84500, 80500, 0)
+ui().selectPoint(84500, 80500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(84500, 80500, 0)
+ui().selectPoint(84500, 77000, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(84500, 77000, 0)
+ui().selectPoint(116000, 81500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(116000, 81500, 0)
+# INFO: Changed layer from marker drawing to ML1 drawing
+ui().selectArea(118081, 81126, 118081, 80982, 0)
+# INFO: Set current layer to ML1 drawing
+ui().selectPoint(108500, 83000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (109.000, 83.000)
+# INFO: Adding path point #2 at (109.000, 79.500)
+# INFO: Created path with 2 points
+ui().selectPoint(109000, 79500, 0)
+# INFO: 1 object(s) moved by delta = (2.500, 0.000)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(119000, 79500, 0)
+ui().editUndo()
+# INFO: Undoing last move
+ui().editUndo()
+# INFO: Undoing last create
+# INFO: Set current layer to ML1 drawing
+ui().editPath()
+# INFO: Adding path point #1 at (108.500, 83.000)
+# INFO: Adding path point #2 at (108.500, 80.500)
+# INFO: Created path with 2 points
+ui().selectPoint(108500, 80500, 0)
+ui().selectPoint(109000, 81500, 0)
+# INFO: 1 object(s) moved by delta = (-8.000, 0.000)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(100000, 82000, 0)
+# INFO: 1 object(s) copied with delta = (8.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(100000, 81500, 0)
+# INFO: 1 object(s) copied with delta = (-8.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell nch1x20 view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().selectPoint(87000, 79000, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(87000, 79000, 0)
+ui().selectPoint(82500, 79500, 0)
+# INFO: 1 Edge(s) stretched by (0.000, 0.000)
+ui().selectPoint(111000, 79000, 0)
+# INFO: Deleting 1 object(s)
+# INFO: Set current layer to ML2 drawing
+ui().editPath()
+# INFO: Adding path point #1 at (113.000, 83.500)
+# INFO: Adding path point #2 at (113.000, 79.000)
+# INFO: Adding path point #3 at (81.500, 79.000)
+# INFO: Created path with 3 points
+ui().selectPoint(81500, 79000, 0)
+ui().selectPoint(105000, 82000, 0)
+# INFO: Deleting 1 object(s)
+# INFO: Set current layer to ML2 drawing
+ui().selectPoint(105500, 83500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (105.500, 83.500)
+# INFO: Adding path point #2 at (105.500, 79.500)
+# INFO: Created path with 2 points
+ui().selectPoint(105500, 79500, 0)
+ui().selectPoint(105500, 81500, 0)
+ui().selectPoint(106000, 81500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(106000, 81500, 0)
+# INFO: Changed layer from marker drawing to ML2 drawing
+ui().selectPoint(97500, 81500, 0)
+ui().selectPoint(98000, 81500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(105000, 81500, 0)
+# INFO: 1 object(s) copied with delta = (-8.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(98500, 82000, 0)
+# INFO: 1 object(s) copied with delta = (-8.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(105500, 81500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(105500, 81500, 0)
+ui().selectPoint(105500, 82000, 0)
+ui().selectArea(105314, 81810, 105314, 81558, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(105500, 81500, 0)
+ui().selectPoint(106000, 81500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(106000, 81500, 0)
+ui().selectPoint(98500, 81500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(98500, 81500, 0)
+ui().selectPoint(89500, 81500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(89500, 81500, 0)
+ui().selectArea(124779, 79373, 130236, 79229, 0)
+ui().selectPoint(144500, 47000, 0)
+# INFO: Object mirrored about (140.500, 49.500)
+ui().selectPoint(141500, 73000, 0)
+ui().editUndo()
+# INFO: Undoing last rotate
+ui().selectPoint(144500, 67500, 0)
+# INFO: Object mirrored about (137.000, 74.500)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(137000, 74500, 0)
+ui().selectPoint(141000, 53000, 0)
+ui().editUndo()
+# INFO: Undoing last rotate
+ui().selectArea(136763, 118865, 155289, 115555, 0)
+ui().selectPoint(140500, 117500, 0)
+# INFO: Object mirrored about (142.000, 96.000)
+ui().editUndo()
+# INFO: Undoing last rotate
+ui().selectPoint(143000, 112500, 0)
+# INFO: Object mirrored about (142.000, 105.000)
+# INFO: 1 object(s) moved by delta = (0.000, -4.500)
+# INFO: 1 object(s) moved by delta = (0.000, -2.000)
+# INFO: 1 object(s) moved by delta = (0.000, 2.000)
+ui().selectPoint(170500, 112500, 0)
+ui().selectArea(145593, 108390, 164118, 102633, 0)
+ui().selectPoint(143000, 107500, 0)
+# INFO: 1 object(s) moved by delta = (0.000, -1.000)
+# INFO: 1 object(s) moved by delta = (0.000, 0.500)
+ui().selectPoint(154000, 94500, 0)
+# INFO: Set current layer to ML1 drawing
+ui().editPath()
+# INFO: Adding path point #1 at (132.500, 123.500)
+# INFO: Adding path point #2 at (135.500, 123.500)
+# INFO: Created path with 2 points
+ui().selectPoint(135500, 123500, 0)
+ui().selectPoint(135500, 123500, 0)
+ui().selectPoint(97000, 61500, 0)
+ui().selectPoint(116000, 57500, 0)
+ui().selectPoint(93000, 54500, 0)
+ui().selectPoint(112000, 54500, 0)
+# INFO: Object mirrored about (110.500, 56.000)
+ui().selectPoint(143000, 58000, 0)
+# INFO: Object mirrored about (142.000, 56.500)
+# INFO: 1 object(s) moved by delta = (0.000, -1.000)
+# INFO: Set current layer to ML1 drawing
+# INFO: Set current layer to ML1 drawing
+ui().selectArea(102835, 74356, 102979, 73852, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (101.500, 77.000)
+# INFO: Adding path point #2 at (105.000, 77.000)
+# INFO: Created path with 2 points
+ui().selectPoint(105000, 77000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (117.000, 35.000)
+# INFO: Adding path point #2 at (120.500, 35.000)
+# INFO: Created path with 2 points
+ui().selectPoint(120500, 35000, 0)
+ui().selectPoint(119000, 33000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (132.500, 77.000)
+# INFO: Adding path point #2 at (135.500, 77.000)
+# INFO: Created path with 2 points
+ui().selectPoint(135500, 77000, 0)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell nch1x20 view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell nch1x20 view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().openCellView("tsd_core_HEAD", "nch1x10", "layout", 1)
+# INFO: Opened cell nch1x10 view layout
+ui().openCellView("tsd_core_HEAD", "nch1x20", "layout", 1)
+# INFO: Opened cell nch1x20 view layout
+ui().openCellView("tsd_core_HEAD", "nch1x20", "layout", 1)
+# INFO: Opened cell nch1x20 view layout
+ui().selectArea(160033, 69421, 135904184, -71860306, 0)
+ui().selectArea(92591, 74650, 97309, 67755, 0)
+ui().selectPoint(141500, 74500, 0)
+# INFO: Object mirrored about (140.500, 59.500)
+# INFO: 1 object(s) moved by delta = (0.000, -7.500)
+ui().selectPoint(144500, 62500, 0)
+# INFO: 1 object(s) moved by delta = (0.000, 1.000)
+# INFO: 1 object(s) moved by delta = (0.000, -0.500)
+ui().selectArea(157653, 64603, 168857, 63224, 0)
+ui().selectPoint(133000, 76500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(119000, 35000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(103000, 76500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(130500, 71000, 0)
+# INFO: Object mirrored about (126.500, 57.500)
+# INFO: 1 object(s) moved by delta = (0.000, -3.000)
+ui().selectPoint(113500, 62000, 0)
+# INFO: Object mirrored about (111.500, 55.000)
+# INFO: 1 object(s) moved by delta = (0.000, 2.000)
+ui().selectPoint(95500, 55500, 0)
+# INFO: Object mirrored about (96.000, 55.000)
+ui().selectPoint(96000, 62000, 0)
+ui().selectPoint(101000, 62500, 0)
+# INFO: 1 object(s) moved by delta = (0.000, 2.000)
+ui().selectPoint(164000, 55000, 0)
+# INFO: Set current layer to ML1 drawing
+ui().editPath()
+# INFO: Adding path point #1 at (132.500, 35.000)
+# INFO: Adding path point #2 at (135.500, 35.000)
+# INFO: Created path with 2 points
+ui().selectPoint(135500, 35000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (117.000, 77.000)
+# INFO: Adding path point #2 at (120.500, 77.000)
+# INFO: Created path with 2 points
+ui().selectPoint(120500, 77000, 0)
+ui().selectPoint(101500, 35000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (101.500, 35.000)
+# INFO: Adding path point #2 at (105.000, 35.000)
+# INFO: Created path with 2 points
+ui().selectPoint(105000, 35000, 0)
+ui().selectPoint(105000, 35000, 0)
+ui().selectPoint(89500, 77000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (89.500, 77.000)
+# INFO: Adding path point #2 at (86.500, 77.000)
+# INFO: Created path with 2 points
+ui().selectPoint(86500, 77000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+# INFO: Set current layer to ML2 drawing
+ui().selectPoint(89500, 77000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (89.500, 77.000)
+# INFO: Adding path point #2 at (85.000, 77.000)
+# INFO: Adding path point #3 at (85.000, 70.000)
+# INFO: Created path with 3 points
+ui().selectPoint(85000, 70000, 0)
+# INFO: Set current layer to ML2 drawing
+ui().editPath()
+# INFO: Adding path point #1 at (82.000, 70.000)
+# INFO: Adding path point #2 at (82.000, 73.000)
+# INFO: Adding path point #3 at (37.000, 73.000)
+# INFO: Adding path point #4 at (37.000, 70.000)
+# INFO: Created path with 4 points
+ui().selectPoint(37000, 70000, 0)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell nch1x20 view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell nch1x20 view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell nch1x20 view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().selectPoint(38000, 77500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(38000, 77500, 0)
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um_v110/OpenRule1um-drc_v110.py
+# INFO: Read 2 shapes from layer NWL drawing
+# INFO: Read 0 shapes from layer NWL_dp drawing
+# INFO: Read 32 shapes from layer DIFF drawing
+# INFO: Read 46 shapes from layer POL drawing
+# INFO: Read 0 shapes from layer HPOL drawing
+# INFO: Read 252 shapes from layer CNT drawing
+# INFO: Read 55 shapes from layer ML1 drawing
+# INFO: Read 68 shapes from layer VIA1 drawing
+# INFO: Read 56 shapes from layer ML2 drawing
+# INFO: Read 0 shapes from layer VIA2 drawing
+# INFO: Read 0 shapes from layer ML3 drawing
+# INFO: Read 0 shapes from layer TEXT drawing
+# INFO: Read 16 shapes from layer FRAME drawing
+# INFO: Read 0 shapes from layer RES drawing
+# INFO: Read 0 shapes from layer CAP drawing
+# INFO: Read 0 shapes from layer DIO drawing
+# INFO: Read 11 shapes from layer Parea drawing
+# INFO: Read 16 shapes from layer Narea drawing
+# INFO: Read 0 shapes from layer PAD drawing
+# INFO: Read 48 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 68 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 9 tasks
+# INFO: Build connectivity took 0.010 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.003 seconds
+# INFO: Total geomConnect time 0.022 seconds
+Check GAP
+Check Overlap
+# INFO: Read 176 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 90 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+ui().selectArea(72666, 81086, 77130, 80918, 0)
+ui().selectPoint(72500, 83000, 0)
+# INFO: 1 Edge(s) stretched by (0.000, -0.500)
+ui().selectPoint(72500, 83000, 0)
+# INFO: 1 Edge(s) stretched by (0.000, 0.500)
+ui().editUndo()
+# INFO: Undoing last stretch
+ui().selectPoint(81500, 83500, 0)
+# INFO: Setting selection mode to PARTIAL
+# INFO: 1 Edge(s) stretched by (0.000, 0.000)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(81500, 83500, 0)
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um_v110/OpenRule1um-drc_v110.py
+# INFO: Read 2 shapes from layer NWL drawing
+# INFO: Read 0 shapes from layer NWL_dp drawing
+# INFO: Read 32 shapes from layer DIFF drawing
+# INFO: Read 46 shapes from layer POL drawing
+# INFO: Read 0 shapes from layer HPOL drawing
+# INFO: Read 252 shapes from layer CNT drawing
+# INFO: Read 55 shapes from layer ML1 drawing
+# INFO: Read 68 shapes from layer VIA1 drawing
+# INFO: Read 56 shapes from layer ML2 drawing
+# INFO: Read 0 shapes from layer VIA2 drawing
+# INFO: Read 0 shapes from layer ML3 drawing
+# INFO: Read 0 shapes from layer TEXT drawing
+# INFO: Read 16 shapes from layer FRAME drawing
+# INFO: Read 0 shapes from layer RES drawing
+# INFO: Read 0 shapes from layer CAP drawing
+# INFO: Read 0 shapes from layer DIO drawing
+# INFO: Read 11 shapes from layer Parea drawing
+# INFO: Read 16 shapes from layer Narea drawing
+# INFO: Read 0 shapes from layer PAD drawing
+# INFO: Read 48 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 68 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 9 tasks
+# INFO: Build connectivity took 0.014 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.003 seconds
+# INFO: Total geomConnect time 0.026 seconds
+Check GAP
+Check Overlap
+# INFO: Read 176 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 90 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+ui().selectPoint(81000, 73000, 0)
+ui().selectPoint(82000, 72500, 0)
+ui().selectArea(81819, 73213, 83327, 72883, 0)
+ui().selectPoint(82000, 73000, 0)
+ui().selectPoint(82000, 73000, 0)
+ui().selectPoint(82000, 72500, 0)
+ui().selectPoint(82000, 73000, 0)
+ui().selectPoint(82000, 73500, 0)
+ui().selectPoint(82000, 72500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(82000, 72500, 0)
+ui().selectPoint(82000, 72000, 0)
+# INFO: Deleting 1 object(s)
+ui().editUndo()
+# INFO: Undoing last delete
+ui().editRedo()
+# INFO: Redoing last delete
+ui().selectPoint(82000, 72000, 0)
+# INFO: Deleting 1 object(s)
+# INFO: Set current layer to ML2 drawing
+ui().editPath()
+# INFO: Adding path point #1 at (82.000, 70.000)
+# INFO: Adding path point #2 at (82.000, 73.000)
+# INFO: Adding path point #3 at (37.000, 73.000)
+# INFO: Adding path point #4 at (37.000, 70.000)
+# INFO: Created path with 4 points
+ui().selectPoint(37000, 70000, 0)
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um_v110/OpenRule1um-drc_v110.py
+# INFO: Read 2 shapes from layer NWL drawing
+# INFO: Read 0 shapes from layer NWL_dp drawing
+# INFO: Read 32 shapes from layer DIFF drawing
+# INFO: Read 46 shapes from layer POL drawing
+# INFO: Read 0 shapes from layer HPOL drawing
+# INFO: Read 252 shapes from layer CNT drawing
+# INFO: Read 55 shapes from layer ML1 drawing
+# INFO: Read 68 shapes from layer VIA1 drawing
+# INFO: Read 56 shapes from layer ML2 drawing
+# INFO: Read 0 shapes from layer VIA2 drawing
+# INFO: Read 0 shapes from layer ML3 drawing
+# INFO: Read 0 shapes from layer TEXT drawing
+# INFO: Read 16 shapes from layer FRAME drawing
+# INFO: Read 0 shapes from layer RES drawing
+# INFO: Read 0 shapes from layer CAP drawing
+# INFO: Read 0 shapes from layer DIO drawing
+# INFO: Read 11 shapes from layer Parea drawing
+# INFO: Read 16 shapes from layer Narea drawing
+# INFO: Read 0 shapes from layer PAD drawing
+# INFO: Read 48 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 68 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.002 seconds
+# INFO: Building connectivity graph, 9 tasks
+# INFO: Build connectivity took 0.009 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.003 seconds
+# INFO: Total geomConnect time 0.020 seconds
+Check GAP
+Check Overlap
+# INFO: Read 176 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 90 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(82000, 70000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (82.000, 70.000)
+# INFO: Adding path point #2 at (82.000, 73.500)
+# INFO: Adding path point #3 at (37.000, 73.500)
+# INFO: Adding path point #4 at (37.000, 70.000)
+# INFO: Created path with 4 points
+ui().selectPoint(37000, 70000, 0)
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um_v110/OpenRule1um-drc_v110.py
+# INFO: Read 2 shapes from layer NWL drawing
+# INFO: Read 0 shapes from layer NWL_dp drawing
+# INFO: Read 32 shapes from layer DIFF drawing
+# INFO: Read 46 shapes from layer POL drawing
+# INFO: Read 0 shapes from layer HPOL drawing
+# INFO: Read 252 shapes from layer CNT drawing
+# INFO: Read 55 shapes from layer ML1 drawing
+# INFO: Read 68 shapes from layer VIA1 drawing
+# INFO: Read 55 shapes from layer ML2 drawing
+# INFO: Read 0 shapes from layer VIA2 drawing
+# INFO: Read 0 shapes from layer ML3 drawing
+# INFO: Read 0 shapes from layer TEXT drawing
+# INFO: Read 16 shapes from layer FRAME drawing
+# INFO: Read 0 shapes from layer RES drawing
+# INFO: Read 0 shapes from layer CAP drawing
+# INFO: Read 0 shapes from layer DIO drawing
+# INFO: Read 11 shapes from layer Parea drawing
+# INFO: Read 16 shapes from layer Narea drawing
+# INFO: Read 0 shapes from layer PAD drawing
+# INFO: Read 48 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 68 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.002 seconds
+# INFO: Building connectivity graph, 9 tasks
+# INFO: Build connectivity took 0.008 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.014 seconds
+# INFO: Total geomConnect time 0.034 seconds
+Check GAP
+Check Overlap
+# INFO: Read 176 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 90 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+ui().selectPoint(94500, 79000, 0)
+ui().selectPoint(95000, 79000, 0)
+# INFO: Setting selection mode to FULL
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# INFO: Deleting 1 object(s)
+# INFO: Set current layer to ML2 drawing
+# INFO: Set current layer to ML2 drawing
+ui().editCreatePath()
+# INFO: Adding path point #1 at (113.000, 83.500)
+# INFO: Adding path point #2 at (113.000, 79.500)
+# INFO: Adding path point #3 at (81.500, 79.500)
+# INFO: Created path with 3 points
+ui().selectPoint(81500, 79500, 0)
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um_v110/OpenRule1um-drc_v110.py
+# INFO: Read 2 shapes from layer NWL drawing
+# INFO: Read 0 shapes from layer NWL_dp drawing
+# INFO: Read 32 shapes from layer DIFF drawing
+# INFO: Read 46 shapes from layer POL drawing
+# INFO: Read 0 shapes from layer HPOL drawing
+# INFO: Read 252 shapes from layer CNT drawing
+# INFO: Read 55 shapes from layer ML1 drawing
+# INFO: Read 68 shapes from layer VIA1 drawing
+# INFO: Read 55 shapes from layer ML2 drawing
+# INFO: Read 0 shapes from layer VIA2 drawing
+# INFO: Read 0 shapes from layer ML3 drawing
+# INFO: Read 0 shapes from layer TEXT drawing
+# INFO: Read 16 shapes from layer FRAME drawing
+# INFO: Read 0 shapes from layer RES drawing
+# INFO: Read 0 shapes from layer CAP drawing
+# INFO: Read 0 shapes from layer DIO drawing
+# INFO: Read 11 shapes from layer Parea drawing
+# INFO: Read 16 shapes from layer Narea drawing
+# INFO: Read 0 shapes from layer PAD drawing
+# INFO: Read 48 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 68 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.002 seconds
+# INFO: Building connectivity graph, 9 tasks
+# INFO: Build connectivity took 0.008 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.007 seconds
+# INFO: Total geomConnect time 0.024 seconds
+Check GAP
+Check Overlap
+# INFO: Read 176 shapes from layer DM_dcn drawing
+# INFO: Read 76 shapes from layer DM_pcn drawing
+# INFO: Read 11 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 90 shapes from layer DM_via1 drawing
+# INFO: Read 0 shapes from layer DM_via2 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_9a883f96461ea7948205335a73032b0fca513bf6, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell nch1x20 view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout

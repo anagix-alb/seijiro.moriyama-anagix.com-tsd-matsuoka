@@ -1,0 +1,462 @@
+# Glade copyright 2017 Peardrop Design Systems. All rights reserved.
+# Glade release version 4.6.55 compiled on Sep  7 2018 10:54:15
+# Qt version 5.10.0 on 32 bit platform (little endian)
+# Compiled with Visual C++ version 13.1
+# Log file: Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/glade_11.12.2018_11.30.23.log
+# Username: 1108 Hostname: mineda.anagix.com
+# Current time: Tue Dec 11 11:30:24 2018
+# Operating system: Windows 7 SP 1 (6.1)
+# Number of CPUs: 6
+# Available memory: 31892 Mb
+# MAC address: E0:D5:5E:A3:54:E3
+# Display 0: Screen size (pixels): 1600 x 837
+# Logical dpi: 96.0 Physical dpi: 96.1
+# Display Scale Factor: 1.00
+# OpenGL vendor: VMware, Inc.
+# OpenGL renderer: llvmpipe (LLVM 5.0, 256 bits)
+# OpenGL version: 2.1 Mesa 17.2.3
+# Python version 2.7.4 (default, Apr  6 2013, 19:54:46) [MSC v.1500 32 bit (Intel)] for win32
+# PYTHONHOME is: Z:\opt\glade\glade4_win32
+# INFO: Reading global preferences file C:/users/1108/gladerc.xml
+# INFO: Loaded library basic from Z:/opt/glade/glade4_win32/basic
+# INFO: Reading library (version 540) /usr/local/share/MakeLSI/OpenRule1um/OpenRule1um
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell an21 view layout
+# INFO: Reading cell an31 view layout
+# INFO: Reading cell an41 view layout
+# INFO: Reading cell buf1 view layout
+# INFO: Reading cell buf2 view layout
+# INFO: Reading cell buf4 view layout
+# INFO: Reading cell buf8 view layout
+# INFO: Reading cell cellall view layout
+# INFO: Reading cell cinv view layout
+# INFO: Reading cell dcont view layout
+# INFO: Reading cell dff1 view layout
+# INFO: Reading cell dff1m2 view layout
+# INFO: Reading cell exnr view layout
+# INFO: Reading cell exor view layout
+# INFO: Reading cell inv1 view layout
+# INFO: Reading cell inv2 view layout
+# INFO: Reading cell inv4 view layout
+# INFO: Reading cell inv8 view layout
+# INFO: Reading cell na21 view layout
+# INFO: Reading cell na212 view layout
+# INFO: Reading cell na222 view layout
+# INFO: Reading cell na31 view layout
+# INFO: Reading cell na41 view layout
+# INFO: Reading cell nr21 view layout
+# INFO: Reading cell nr212 view layout
+# INFO: Reading cell nr222 view layout
+# INFO: Reading cell nr31 view layout
+# INFO: Reading cell nsubcont view layout
+# INFO: Reading cell or21 view layout
+# INFO: Reading cell or31 view layout
+# INFO: Reading cell pcont view layout
+# INFO: Reading cell psubcont view layout
+# INFO: Reading cell rff1 view layout
+# INFO: Reading cell rff1m2 view layout
+# INFO: Reading cell sff1 view layout
+# INFO: Reading cell sff1m2 view layout
+# INFO: Reading cell Via view layout
+# INFO: Rebinding library basic
+# WARNING: Library default not found, creating new library!
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().fileOpenLib()
+Opening library tsd_core_HEAD
+# INFO: Reading library (version 540) Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell ko_bgr view layout
+# INFO: Reading cell ko_tsd view layout
+# INFO: Reading cell ko_tsdnew view layout
+# INFO: Reading cell nch1x10 view layout
+# INFO: Reading cell nch1x20 view layout
+# INFO: Reading cell pch1x10 view layout
+# INFO: Reading cell pch1x20 view layout
+# INFO: Reading cell res4k view layout
+# INFO: Reading cell res500 view layout
+# INFO: Reading cell res980k view layout
+# INFO: Reading cell res98k view layout
+# INFO: Reading cell tsd_core view layout
+# INFO: Rebinding library tsd_core_HEAD
+# INFO: Rebinding library default
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().openCellView("tsd_core_HEAD", "ko_tsdnew", "layout", 1)
+# INFO: Opened cell ko_tsdnew view layout
+ui().selectPoint(52000, -2500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -32.500), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(54000, -32000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(12565, -47654, 30090, -54999, 0)
+# INFO: Creating instance I18 (master tsd_core_HEAD nch1x10 layout) origin (20.500 -69.000) orientation R0
+ui().selectPoint(20000, -63000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-15.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(-6182, -50102, 32535, -73770, 0)
+ui().editCopy()
+# INFO: 2 object(s) copied with delta = (-36.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(33758, -17864, 61472, -44797, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-30.000, 0.000)
+ui().selectArea(1969, -19089, 37426, -48470, 0)
+ui().selectPoint(37500, -48500, 0)
+# WARNING: For infix mode move, select something first.
+ui().selectArea(4821, -16640, 31720, -46838, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-4.500, 0.000)
+ui().selectPoint(42000, -44000, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsdnew/layout
+ui().selectPoint(20000, -26500, 0)
+ui().editMirrorX()
+# INFO: Object mirrored about (18.000, -30.500)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, -3.000)
+ui().selectPoint(18500, -30500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, 0.500)
+ui().selectPoint(19500, -31000, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (18.500, -32.000)
+ui().selectPoint(27000, -31500, 0)
+ui().selectPoint(8500, -22500, 0)
+# INFO: Set current layer to ML1 drawing
+ui().selectPoint(8500, -23000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (8.500, -23.000)
+# INFO: Adding path point #2 at (8.500, -17.500)
+# INFO: Created path with 2 points
+ui().selectPoint(8500, -17500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(8500, -22500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (8.500, -22.500)
+# INFO: Adding path point #2 at (8.500, -18.500)
+# INFO: Adding path point #3 at (20.500, -18.500)
+# INFO: Adding path point #4 at (20.500, -24.000)
+# INFO: Created path with 4 points
+ui().selectPoint(20500, -24000, 0)
+ui().selectPoint(16500, -24000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (16.500, -24.000)
+# INFO: Adding path point #2 at (16.500, -18.500)
+# INFO: Created path with 2 points
+ui().selectPoint(16500, -18500, 0)
+ui().selectPoint(9000, -39500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (9.000, -39.500)
+# INFO: Adding path point #2 at (12.500, -39.500)
+# INFO: Adding path point #3 at (12.500, -18.500)
+# INFO: Created path with 3 points
+ui().selectPoint(12500, -18500, 0)
+ui().selectPoint(31500, -27500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editUndo()
+# INFO: Undoing last create
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(9000, -39500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (9.000, -39.500)
+# ERROR: Path has 1 points - will not be created!
+ui().selectPoint(9000, -39500, 0)
+ui().editUndo()
+# INFO: Undoing last rotate
+ui().editRedo()
+# INFO: Redoing last rotate
+ui().selectArea(1907, -20675, 12453, -42864, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (7.000, -31.000)
+ui().selectPoint(13000, -28500, 0)
+ui().selectPoint(5500, -22500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (5.500, -22.500)
+# INFO: Adding path point #2 at (5.500, -19.500)
+# INFO: Adding path point #3 at (6.000, -19.500)
+# INFO: Created path with 3 points
+ui().selectPoint(6000, -19500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(5000, -39500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (5.000, -39.500)
+# INFO: Adding path point #2 at (1.000, -39.500)
+# INFO: Adding path point #3 at (1.000, -23.000)
+# INFO: Adding path point #4 at (5.500, -23.000)
+# INFO: Adding path point #5 at (5.500, -19.500)
+# INFO: Adding path point #6 at (20.500, -19.500)
+# INFO: Adding path point #7 at (20.500, -24.000)
+# INFO: Created path with 7 points
+ui().selectPoint(20500, -24000, 0)
+ui().selectPoint(16500, -24000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (16.500, -24.000)
+# INFO: Adding path point #2 at (16.500, -19.500)
+# INFO: Created path with 2 points
+ui().selectPoint(16500, -19500, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsdnew/layout
+ui().selectPoint(51500, -3000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -44.500), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(51000, -51500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (51.000, -51.500)
+# INFO: Adding path point #2 at (46.000, -51.500)
+# INFO: Adding path point #3 at (46.000, -36.500)
+# INFO: Created path with 3 points
+ui().selectPoint(46000, -36500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(51000, -51500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (51.000, -51.500)
+# INFO: Adding path point #2 at (47.500, -51.500)
+# INFO: Adding path point #3 at (47.500, -35.000)
+# INFO: Adding path point #4 at (51.500, -35.000)
+# INFO: Created path with 4 points
+ui().selectPoint(51500, -35000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(51000, -51500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (51.000, -51.500)
+# INFO: Adding path point #2 at (46.000, -51.500)
+# INFO: Adding path point #3 at (46.000, -34.500)
+# INFO: Adding path point #4 at (59.000, -34.500)
+# INFO: Adding path point #5 at (59.000, -51.500)
+# INFO: Adding path point #6 at (55.000, -51.500)
+# INFO: Created path with 6 points
+ui().selectPoint(55000, -51500, 0)
+ui().selectArea(-2796, -16203, 24103, -46809, 0)
+ui().editMove()
+# INFO: 4 object(s) moved by delta = (0.000, 6.000)
+ui().selectArea(42647, -31710, 62414, -55174, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (20.500, 0.000)
+ui().properties("tsd_core_HEAD", "ko_tsdnew", "layout")
+ui().selectPoint(83000, -66500, 0)
+ui().selectArea(-5852, -49461, 31235, -76803, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-4.000, 0.000)
+ui().selectPoint(37500, -48000, 0)
+ui().openCellView("tsd_core_HEAD", "tsd_core", "layout", 1)
+# INFO: Opened cell tsd_core view layout
+ui().selectArea(-6348, -49084, 27489, -73399, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.500, 0.000)
+ui().selectArea(-8338, -48685, 25499, -73797, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (0.000, 8.500)
+ui().selectArea(-10615, -39747, 25412, -66652, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (0.000, 3.000)
+ui().selectPoint(28000, -50500, 0)
+ui().selectArea(-9222, -39547, 8890, -64460, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (2.500, 0.000)
+ui().selectPoint(29500, -56500, 0)
+ui().selectArea(9393, -39197, 25914, -61718, 0)
+ui().selectPoint(22000, -56500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-1.500, 0.000)
+ui().selectArea(-5834, -37602, 24421, -61618, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (10.000, -48.500)
+ui().selectArea(-4839, -38798, 28203, -60921, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (5.500, 0.000)
+ui().selectArea(-2350, -38399, 2426, -49759, 0)
+ui().selectPoint(21500, -45000, 0)
+ui().selectPoint(9500, -46500, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (7.000, -48.500)
+ui().selectArea(13871, -39595, 31189, -62316, 0)
+ui().selectPoint(12000, -42500, 0)
+ui().selectPoint(9000, -33500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (9.000, -33.500)
+# INFO: Adding path point #2 at (9.000, -42.500)
+# INFO: Created path with 2 points
+ui().selectPoint(9000, -42500, 0)
+ui().selectPoint(17000, -34500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (17.000, -34.500)
+# INFO: Adding path point #2 at (17.000, -42.500)
+# INFO: Created path with 2 points
+ui().selectPoint(17000, -42500, 0)
+ui().selectArea(-45161, -51302, -2962, -76016, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (0.000, 10.000)
+ui().selectPoint(67500, -49500, 0)
+ui().selectPoint(6000, -42000, 0)
+# INFO: Set current layer to ML2 drawing
+ui().selectPoint(6000, -42000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (6.000, -42.000)
+# INFO: Adding path point #2 at (6.000, -39.000)
+# INFO: Adding path point #3 at (6.000, -38.000)
+# INFO: Created path with 2 points
+ui().selectPoint(6000, -38000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(6000, -42000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (6.000, -42.000)
+# INFO: Adding path point #2 at (6.000, -38.500)
+# INFO: Adding path point #3 at (20.000, -38.500)
+# INFO: Adding path point #4 at (20.000, -42.000)
+# INFO: Created path with 4 points
+ui().selectPoint(20000, -42000, 0)
+ui().selectPoint(13000, -48000, 0)
+ui().selectArea(-43554, -39282, -7824, -64295, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (0.000, 1.500)
+ui().selectPoint(-9000, -61500, 0)
+ui().selectPoint(59000, 16000, 0)
+# INFO: Deleting 1 object(s)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsdnew/layout
+ui().selectPoint(-13000, 37500, 0)
+# INFO: Set current layer to ML1 drawing
+ui().selectPoint(-13000, 37500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-13.000, 37.500)
+# INFO: Adding path point #2 at (-13.000, 45.000)
+# INFO: Adding path point #3 at (-13.000, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-13000, 45500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (5.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (5.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (5.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (5.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (5.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (5.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editUndo()
+# INFO: Undoing last copy
+ui().selectPoint(51000, 44000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(59880, -27635, 85958, -57931, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-35.000, 0.000)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (0.000, -4.500)
+ui().selectPoint(31000, -23000, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsdnew/layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell nch1x10 view layout
+Writing cell res980k view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell res98k view layout
+Writing cell ko_tsdnew view layout
+Writing cell res500 view layout
+Writing cell ko_bgr view layout
+Writing cell tsd_core view layout
+Writing cell pch1x20 view layout
+Writing cell res4k view layout
+Writing cell pch1x10 view layout
+ui().fileOpenLib()
+# INFO: Set current layer to POL drawing
+ui().fileOpenLib()
+# WARNING: Please open a cellView from the library browser!
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsdnew/layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell nch1x10 view layout
+Writing cell res980k view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell res98k view layout
+Writing cell ko_tsdnew view layout
+Writing cell res500 view layout
+Writing cell ko_bgr view layout
+Writing cell tsd_core view layout
+Writing cell pch1x20 view layout
+Writing cell res4k view layout
+Writing cell pch1x10 view layout
+# INFO: Saving global preferences file C:/users/1108/gladerc.xml
+# Normal exit.

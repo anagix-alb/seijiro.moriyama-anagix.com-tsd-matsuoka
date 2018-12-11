@@ -1,0 +1,808 @@
+# Glade copyright 2017 Peardrop Design Systems. All rights reserved.
+# Glade release version 4.6.55 compiled on Sep  7 2018 10:54:15
+# Qt version 5.10.0 on 32 bit platform (little endian)
+# Compiled with Visual C++ version 13.1
+# Log file: Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/glade_05.10.2018_15.19.47.log
+# Username: 1108 Hostname: mineda.anagix.com
+# Current time: Fri Oct 05 15:19:47 2018
+# Operating system: Windows 7 SP 1 (6.1)
+# Number of CPUs: 6
+# Available memory: 31892 Mb
+# MAC address: E0:D5:5E:A3:54:E3
+# Display 0: Screen size (pixels): 1280 x 657
+# Logical dpi: 96.0 Physical dpi: 95.9
+# Display Scale Factor: 1.00
+# OpenGL vendor: VMware, Inc.
+# OpenGL renderer: llvmpipe (LLVM 5.0, 256 bits)
+# OpenGL version: 2.1 Mesa 17.2.3
+# Python version 2.7.4 (default, Apr  6 2013, 19:54:46) [MSC v.1500 32 bit (Intel)] for win32
+# PYTHONHOME is: Z:\opt\glade\glade4_win32
+# INFO: Reading global preferences file C:/users/1108/gladerc.xml
+# INFO: Loaded library basic from Z:/opt/glade/glade4_win32/basic
+# INFO: Reading library (version 540) /usr/local/share/MakeLSI/OpenRule1um/OpenRule1um
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell an21 view layout
+# INFO: Reading cell an31 view layout
+# INFO: Reading cell an41 view layout
+# INFO: Reading cell buf1 view layout
+# INFO: Reading cell buf2 view layout
+# INFO: Reading cell buf4 view layout
+# INFO: Reading cell buf8 view layout
+# INFO: Reading cell cellall view layout
+# INFO: Reading cell cinv view layout
+# INFO: Reading cell dcont view layout
+# INFO: Reading cell dff1 view layout
+# INFO: Reading cell dff1m2 view layout
+# INFO: Reading cell exnr view layout
+# INFO: Reading cell exor view layout
+# INFO: Reading cell inv1 view layout
+# INFO: Reading cell inv2 view layout
+# INFO: Reading cell inv4 view layout
+# INFO: Reading cell inv8 view layout
+# INFO: Reading cell na21 view layout
+# INFO: Reading cell na212 view layout
+# INFO: Reading cell na222 view layout
+# INFO: Reading cell na31 view layout
+# INFO: Reading cell na41 view layout
+# INFO: Reading cell nr21 view layout
+# INFO: Reading cell nr212 view layout
+# INFO: Reading cell nr222 view layout
+# INFO: Reading cell nr31 view layout
+# INFO: Reading cell nsubcont view layout
+# INFO: Reading cell or21 view layout
+# INFO: Reading cell or31 view layout
+# INFO: Reading cell pcont view layout
+# INFO: Reading cell psubcont view layout
+# INFO: Reading cell rff1 view layout
+# INFO: Reading cell rff1m2 view layout
+# INFO: Reading cell sff1 view layout
+# INFO: Reading cell sff1m2 view layout
+# INFO: Reading cell Via view layout
+# INFO: Rebinding library basic
+# INFO: Reading library (version 540) .
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell ko_bgr view layout
+# INFO: Reading cell ko_tsd view layout
+# INFO: Reading cell nch1x10 view layout
+# INFO: Reading cell nch1x20 view layout
+# INFO: Reading cell pch1x10 view layout
+# INFO: Reading cell pch1x20 view layout
+# INFO: Reading cell res4k view layout
+# INFO: Reading cell res500 view layout
+# INFO: Reading cell res980k view layout
+# INFO: Reading cell res98k view layout
+# INFO: Reading cell tsd_core view layout
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().openCellView("tsd_core_HEAD", "ko_bgr", "layout", 1)
+# INFO: Opened cell ko_bgr view layout
+# INFO: Creating instance I0 (master tsd_core_HEAD nch1x10 layout) origin (29.000 -17.000) orientation R0
+ui().selectArea(32748, 5364, 48966, -5200, 0)
+ui().selectPoint(31000, -9500, 0)
+# INFO: 1 object(s) moved by delta = (0.000, 17.000)
+ui().selectPoint(31000, 7500, 0)
+# INFO: 1 object(s) copied with delta = (-10.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: 1 object(s) copied with delta = (-11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(13000, 7000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-1500, 8000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-16.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-15500, 9500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (3.000, 0.000)
+ui().selectPoint(63500, -9500, 0)
+ui().selectPoint(-11500, 8500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-12.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-23500, 7000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (70.500, 0.000)
+ui().selectPoint(43000, 9000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-71.000, 0.000)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -25.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (13.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (16.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-3.000, 0.000)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (11.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (10.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (10.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(21347, -50181, 21347, -53428, 0)
+# INFO: Creating instance I13 (master tsd_core_HEAD pch1x10 layout) origin (20.500 -61.000) orientation R0
+# WARNING: For infix mode copy, select something first.
+ui().selectPoint(24500, -50000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-12.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(12500, -50500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-13.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-12.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-13.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -38.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (77.500, 0.000)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-0.500, 0.000)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(27500, -53500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -33.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: 1 object(s) moved by delta = (13.500, 0.000)
+ui().selectPoint(95500, -119500, 0)
+ui().selectPoint(38500, -82500, 0)
+# INFO: 1 object(s) copied with delta = (-18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: 1 object(s) copied with delta = (-15.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(6500, -84000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-17.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-10500, -86500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-15.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-26000, -86500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-15.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editMove()
+ui().selectPoint(-23500, -81000, 0)
+ui().selectPoint(-23000, -82500, 0)
+# WARNING: For infix mode move, select something first.
+ui().selectPoint(-27000, -84500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (4.000, 0.000)
+ui().selectPoint(-43500, -83000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (5.000, 0.000)
+ui().selectPoint(2000, -80500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-4.000, 0.000)
+ui().selectPoint(18500, -79000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-6.000, 0.000)
+ui().selectPoint(38500, -80500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-10.500, 0.000)
+ui().selectPoint(23000, -57500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (4.500, 0.000)
+ui().selectPoint(11500, -55000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (4.500, 0.000)
+ui().selectPoint(16000, -56000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-1.000, 0.000)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_bgr/layout
+ui().selectPoint(50500, -114000, 0)
+# INFO: Creating instance I25 (master tsd_core_HEAD nch1x10 layout) origin (143.000 -86.500) orientation R0
+ui().editCreatePath()
+# INFO: Adding path point #1 at (148.000, -71.500)
+# INFO: Adding path point #2 at (148.000, -68.000)
+# INFO: Adding path point #3 at (145.000, -68.000)
+# INFO: Adding path point #4 at (145.000, -71.000)
+# INFO: Created path with 4 points
+ui().selectPoint(145000, -71000, 0)
+ui().selectPoint(148000, -68000, 0)
+ui().properties("tsd_core_HEAD", "ko_bgr", "layout")
+ui().selectPoint(148000, -68000, 0)
+# INFO: Changed layer from NWL drawing to ML1 drawing
+ui().editCreatePath()
+# INFO: Adding path point #1 at (144.500, -86.500)
+# INFO: Adding path point #2 at (141.000, -86.500)
+# INFO: Adding path point #3 at (141.000, -71.000)
+# INFO: Adding path point #4 at (145.000, -71.000)
+# INFO: Created path with 4 points
+ui().selectPoint(145000, -71000, 0)
+ui().openCellView("tsd_core_HEAD", "tsd_core", "layout", 1)
+# INFO: Opened cell tsd_core view layout
+ui().editUndo()
+# INFO: Undoing last create
+ui().editUndo()
+# INFO: Undoing last create
+ui().editPath()
+# INFO: Adding path point #1 at (144.500, -86.500)
+# INFO: Adding path point #2 at (151.000, -86.500)
+# INFO: Adding path point #3 at (151.000, -71.500)
+# INFO: Created path with 3 points
+ui().selectPoint(151000, -71500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (145.000, -71.000)
+# INFO: Adding path point #2 at (150.500, -71.000)
+# INFO: Adding path point #3 at (151.500, -71.000)
+# INFO: Adding path point #4 at (151.500, -89.000)
+# INFO: Adding path point #5 at (144.500, -89.000)
+# INFO: Adding path point #6 at (144.500, -86.500)
+# INFO: Created path with 5 points
+ui().selectPoint(144500, -86500, 0)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_bgr/layout
+ui().selectPoint(72500, -29500, 0)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_bgr/layout
+ui().openCellView("tsd_core_HEAD", "ko_tsd", "layout", 1)
+# INFO: Opened cell ko_tsd view layout
+ui().selectArea(23235, 51393, 31068, 49227, 0)
+ui().selectPoint(22500, 43500, 0)
+# INFO: 1 object(s) copied with delta = (-10.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: 1 object(s) copied with delta = (-12.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-1000, 44000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-12.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (46.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: Deleting 1 object(s)
+ui().selectPoint(23500, 47500, 0)
+# INFO: 1 object(s) copied with delta = (10.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: 1 object(s) copied with delta = (11.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(46000, 43500, 0)
+ui().selectPoint(46000, 42500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-0.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editUndo()
+# INFO: Undoing last copy
+ui().selectPoint(45500, 38500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (10.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(55500, 41000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().openCellView("tsd_core_HEAD", "tsd_core", "layout", 1)
+# INFO: Opened cell tsd_core view layout
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, 20.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(66500, 53500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-10.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-10.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-9.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-12.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-12.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-12500, 42500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-26.000, 0.000)
+ui().selectPoint(2000, 44500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-25.000, 0.000)
+ui().selectPoint(12500, 42500, 0)
+ui().editCreateVia()
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-24.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (13.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(1000, 43000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-0.500, 0.000)
+ui().selectPoint(65500, 61500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (23.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCreatePath()
+# INFO: Adding path point #1 at (86.500, 53.000)
+# INFO: Adding path point #2 at (93.500, 53.000)
+# INFO: Adding path point #3 at (93.500, 68.500)
+# INFO: Adding path point #4 at (87.000, 68.500)
+# INFO: Created path with 4 points
+ui().selectPoint(87000, 68500, 0)
+ui().selectPoint(94500, 64000, 0)
+# WARNING: For infix mode copy, select something first.
+ui().selectPoint(88000, 58500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -52.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(88000, 6500, 0)
+ui().selectPoint(90000, 9000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-75.000, 0.000)
+ui().selectPoint(13000, 5500, 0)
+ui().selectPoint(67000, 59000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(67000, 39500, 0)
+# INFO: Deleting 1 object(s)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (11.500, 1.000)
+# INFO: Adding path point #2 at (18.500, 1.000)
+# INFO: Adding path point #3 at (18.500, 16.500)
+# INFO: Adding path point #4 at (12.500, 16.500)
+# INFO: Adding path point #5 at (12.000, 16.500)
+# INFO: Created path with 4 points
+ui().selectPoint(12000, 16500, 0)
+ui().selectPoint(90000, 59000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(95000, 61500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(57500, 62000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(41500, 57000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(31000, 60000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(20500, 61500, 0)
+ui().selectPoint(20500, 62500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(52245, 57472, 63039, 47087, 0)
+ui().selectPoint(56500, 43500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(42000, 41500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(45500, 42000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(33000, 40000, 0)
+ui().zoomOut(32814, 40163, 35405, 39298)
+ui().editUndo()
+# INFO: Undoing last delete
+ui().openCellView("tsd_core_HEAD", "ko_tsd", "layout", 1)
+# INFO: Opened cell ko_tsd view layout
+ui().selectArea(43374, 42664, 106346, 40886, 0)
+ui().selectPoint(41000, 39000, 0)
+ui().selectPoint(48000, 39500, 0)
+ui().selectArea(45147, 50220, 60225, 40886, 0)
+ui().selectPoint(44500, 46000, 0)
+ui().selectArea(44261, 48442, 114772, 46220, 0)
+ui().selectPoint(14500, 9000, 0)
+ui().selectArea(14548, 29331, 99694, 8887, 0)
+ui().selectPoint(13000, 63500, 0)
+ui().selectArea(13218, 73775, 35835, 63553, 0)
+ui().selectPoint(15500, 62000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(1500, 59000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-10000, 59500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(39967, 44999, 45067, 41888, 0)
+ui().selectPoint(41500, 45000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(32500, 41500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(24000, 41000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(14000, 42500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(4000, 38500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-9500, 43000, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-10000, 43000, 0)
+ui().selectPoint(-11000, 42500, 0)
+ui().selectPoint(-27000, 45000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-14000, 39500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-38000, 41000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(13953, 3794, 15894, 3294, 0)
+ui().selectPoint(16000, 4000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(18500, 2500, 0)
+# INFO: Deleting 1 object(s)
+# INFO: Creating instance I0 (master tsd_core_HEAD pch1x10 layout) origin (10.000 10.000) orientation R0
+ui().selectArea(13458, 28410, 17006, 16411, 0)
+ui().editMove()
+# WARNING: Please select something first.
+ui().selectPoint(15000, 22500, 0)
+ui().selectPoint(12000, 21500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-12.000, 0.000)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, -10.000)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-1.500, 0.000)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (18.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (16.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-88.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-16000, 12000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-16.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-33500, 9500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-17.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -36.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-20.500, 0.000)
+ui().selectPoint(-51000, 4500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -35.500), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (16.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(0, 9000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -36.500), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (18.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(37000, 9000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -36.500), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(56000, 13000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -36.500), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-68500, -27000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-18.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-33000, -27000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -56.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-16000, -29500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -56.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-48500, 20000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-48.500, 20.000)
+# INFO: Adding path point #2 at (74.500, 20.000)
+# INFO: Adding path point #3 at (74.500, 19.500)
+# INFO: Created path with 3 points
+ui().selectPoint(74500, 19500, 0)
+ui().selectPoint(62000, 20000, 0)
+# INFO: 1 object(s) moved by delta = (0.000, -1.000)
+ui().selectPoint(51000, 103500, 0)
+ui().properties("tsd_core_HEAD", "tsd_core", "layout")
+ui().selectPoint(51000, 103500, 0)
+ui().selectPoint(50000, 19000, 0)
+ui().selectPoint(46500, 19000, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(46500, 19000, 0)
+ui().selectPoint(44000, 18500, 0)
+# INFO: 1 object(s) moved by delta = (0.000, 2.500)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+# INFO: 1 object(s) moved by delta = (7.000, 0.000)
+ui().selectPoint(-16000, -86500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-16000, -86500, 0)
+ui().selectPoint(-2500, -85000, 0)
+ui().selectPoint(-14500, -83500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-32.500, 0.000)
+# INFO: 1 object(s) copied with delta = (32.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editPath()
+# INFO: Adding path point #1 at (-18.000, -89.500)
+# INFO: Adding path point #2 at (-10.500, -89.500)
+# INFO: Adding path point #3 at (-10.500, -73.000)
+# INFO: Adding path point #4 at (-14.500, -73.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-14500, -73000, 0)
+ui().selectArea(-68412, -78466, -47853, -78466, 0)
+ui().selectPoint(-47500, -78500, 0)
+# INFO: 1 object(s) copied with delta = (-20.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: 1 object(s) copied with delta = (-18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(-87028, -83552, -64649, -98297, 0)
+ui().selectPoint(-87500, -78500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-70000, -82500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-46000, -78500, 0)
+ui().selectPoint(-49500, -82000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-32500, -79000, 0)
+# INFO: Deleting 1 object(s)
+# INFO: Creating instance I19 (master tsd_core_HEAD nch1x10 layout) origin (-35.000 -87.500) orientation R0
+ui().selectArea(-37726, -74462, -31509, -75085, 0)
+ui().selectPoint(-34000, -75500, 0)
+# WARNING: Inst name I20 already exists, renaming to I20_20
+# INFO: 1 object(s) copied with delta = (-17.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: 1 object(s) copied with delta = (-20.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+# INFO: 1 object(s) copied with delta = (-19.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().selectPoint(-17500, -80000, 0)
+# INFO: 1 object(s) moved by delta = (0.000, 2.000)
+ui().selectPoint(-10500, -78000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-17000, -76500, 0)
+# INFO: 1 object(s) moved by delta = (0.000, 1.500)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-15.000, -86.000)
+# INFO: Adding path point #2 at (-10.000, -86.000)
+# INFO: Adding path point #3 at (-10.000, -70.000)
+# INFO: Adding path point #4 at (-10.000, -69.500)
+# INFO: Adding path point #5 at (-14.000, -69.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-14000, -69500, 0)
+ui().selectPoint(-15000, -86000, 0)
+# INFO: Setting selection mode to PARTIAL
+# INFO: 1 Edge(s) stretched by (0.000, 0.000)
+ui().selectPoint(-14500, -86000, 0)
+ui().selectPoint(-14500, -86000, 0)
+ui().editPath()
+# INFO: Adding path point #1 at (-15.000, -86.000)
+# INFO: Adding path point #2 at (-18.000, -86.000)
+# INFO: Adding path point #3 at (-18.000, -86.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-18000, -86500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(-18000, -86000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-18.000, -86.000)
+# INFO: Adding path point #2 at (-15.000, -86.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-15000, -86000, 0)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-90.500, -87.500)
+# INFO: Adding path point #2 at (-33.500, -87.500)
+# INFO: Adding path point #3 at (-33.500, -88.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-33500, -88000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-93.000, -89.000)
+# INFO: Adding path point #2 at (-35.000, -89.000)
+# INFO: Adding path point #3 at (-35.000, -88.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-35000, -88500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-92.500, -89.000)
+# INFO: Adding path point #2 at (-35.000, -89.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-35000, -89000, 0)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().selectPoint(-40500, 21500, 0)
+ui().selectPoint(-39500, 21000, 0)
+ui().selectPoint(-41500, 21500, 0)
+ui().selectPoint(-41000, 21500, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (-10.000, 0.500)
+# INFO: 1 Edge(s) stretched by (-10.000, 0.500)
+ui().editPath()
+ui().editPath()
+# INFO: Adding path point #1 at (72.500, 2.000)
+# INFO: Adding path point #2 at (72.500, -2.500)
+# INFO: Adding path point #3 at (1.500, -2.500)
+# INFO: Created path with 3 points
+ui().selectPoint(1500, -2500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (1.500, 2.000)
+# INFO: Adding path point #2 at (1.500, -2.500)
+# INFO: Created path with 2 points
+ui().selectPoint(1500, -2500, 0)
+ui().selectPoint(2000, -500, 0)
+ui().selectArea(1421, 173, 1542, -676, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(1500, -500, 0)
+ui().selectPoint(1500, -500, 0)
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().editCopy()
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().editCreatePath()
+# INFO: Adding path point #1 at (20.000, 1.500)
+# INFO: Adding path point #2 at (20.000, -2.500)
+# INFO: Created path with 2 points
+ui().selectPoint(20000, -2500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (38.000, 1.500)
+# INFO: Adding path point #2 at (38.000, -2.500)
+# INFO: Created path with 2 points
+ui().selectPoint(38000, -2500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (56.000, 2.000)
+# INFO: Adding path point #2 at (56.000, -2.500)
+# INFO: Created path with 2 points
+ui().selectPoint(56000, -2500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (69.500, 2.000)
+# INFO: Adding path point #2 at (69.500, -4.000)
+# INFO: Created path with 2 points
+ui().selectPoint(69500, -4000, 0)
+ui().selectPoint(69500, -4000, 0)
+ui().selectPoint(69500, -500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(69500, -500, 0)
+# INFO: Changed layer from ML1 drawing to ML2 drawing
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+# INFO: 1 object(s) copied with delta = (0.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(69500, 0, 0)
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout

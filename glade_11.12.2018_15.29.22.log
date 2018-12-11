@@ -1,0 +1,209 @@
+# Glade copyright 2017 Peardrop Design Systems. All rights reserved.
+# Glade release version 4.6.55 compiled on Sep  7 2018 10:54:15
+# Qt version 5.10.0 on 32 bit platform (little endian)
+# Compiled with Visual C++ version 13.1
+# Log file: Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/glade_11.12.2018_15.29.22.log
+# Username: 1108 Hostname: mineda.anagix.com
+# Current time: Tue Dec 11 15:29:22 2018
+# Operating system: Windows 7 SP 1 (6.1)
+# Number of CPUs: 6
+# Available memory: 31892 Mb
+# MAC address: E0:D5:5E:A3:54:E3
+# Display 0: Screen size (pixels): 1600 x 837
+# Logical dpi: 96.0 Physical dpi: 96.1
+# Display Scale Factor: 1.00
+# OpenGL vendor: VMware, Inc.
+# OpenGL renderer: llvmpipe (LLVM 5.0, 256 bits)
+# OpenGL version: 2.1 Mesa 17.2.3
+# Python version 2.7.4 (default, Apr  6 2013, 19:54:46) [MSC v.1500 32 bit (Intel)] for win32
+# PYTHONHOME is: Z:\opt\glade\glade4_win32
+# INFO: Reading global preferences file C:/users/1108/gladerc.xml
+# INFO: Loaded library basic from Z:/opt/glade/glade4_win32/basic
+# INFO: Reading library (version 540) /usr/local/share/MakeLSI/OpenRule1um/OpenRule1um
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell an21 view layout
+# INFO: Reading cell an31 view layout
+# INFO: Reading cell an41 view layout
+# INFO: Reading cell buf1 view layout
+# INFO: Reading cell buf2 view layout
+# INFO: Reading cell buf4 view layout
+# INFO: Reading cell buf8 view layout
+# INFO: Reading cell cellall view layout
+# INFO: Reading cell cinv view layout
+# INFO: Reading cell dcont view layout
+# INFO: Reading cell dff1 view layout
+# INFO: Reading cell dff1m2 view layout
+# INFO: Reading cell exnr view layout
+# INFO: Reading cell exor view layout
+# INFO: Reading cell inv1 view layout
+# INFO: Reading cell inv2 view layout
+# INFO: Reading cell inv4 view layout
+# INFO: Reading cell inv8 view layout
+# INFO: Reading cell na21 view layout
+# INFO: Reading cell na212 view layout
+# INFO: Reading cell na222 view layout
+# INFO: Reading cell na31 view layout
+# INFO: Reading cell na41 view layout
+# INFO: Reading cell nr21 view layout
+# INFO: Reading cell nr212 view layout
+# INFO: Reading cell nr222 view layout
+# INFO: Reading cell nr31 view layout
+# INFO: Reading cell nsubcont view layout
+# INFO: Reading cell or21 view layout
+# INFO: Reading cell or31 view layout
+# INFO: Reading cell pcont view layout
+# INFO: Reading cell psubcont view layout
+# INFO: Reading cell rff1 view layout
+# INFO: Reading cell rff1m2 view layout
+# INFO: Reading cell sff1 view layout
+# INFO: Reading cell sff1m2 view layout
+# INFO: Reading cell Via view layout
+# INFO: Rebinding library basic
+# WARNING: Library default not found, creating new library!
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().fileSaveLib()
+ui().fileSaveLibAs()
+ui().fileOpenLib()
+Opening library tsd_core_HEAD
+# INFO: Reading library (version 540) C:/users/1108/My Documents/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell ko_bgr view layout
+# INFO: Reading cell ko_tsd view layout
+# INFO: Reading cell ko_tsdnew view layout
+# INFO: Reading cell nch1x10 view layout
+# INFO: Reading cell nch1x20 view layout
+# INFO: Reading cell pch1x10 view layout
+# INFO: Reading cell pch1x20 view layout
+# INFO: Reading cell res4k view layout
+# INFO: Reading cell res500 view layout
+# INFO: Reading cell res980k view layout
+# INFO: Reading cell res98k view layout
+# INFO: Reading cell tsd_core view layout
+# INFO: Rebinding library tsd_core_HEAD
+# INFO: Rebinding library default
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().openCellView("tsd_core_HEAD", "ko_tsdnew", "layout", 1)
+# INFO: Opened cell ko_tsdnew view layout
+ui().selectArea(40029, 48939, 60367, -12151, 0)
+ui().selectArea(39549, 42227, 60099, -11651, 0)
+ui().selectArea(39858, 48552, 60832, -13386, 0)
+ui().selectArea(39223, 49189, 59772, -11689, 0)
+ui().editMove()
+# INFO: 12 object(s) moved by delta = (5.000, 0.000)
+ui().selectArea(-18612, 46855, 2784, -11901, 0)
+ui().editMove()
+# INFO: 12 object(s) moved by delta = (-3.500, 0.000)
+ui().fileSaveCell()
+# INFO: Saving cellview C:/users/1108/My Documents/ALBDATA/Glade/tsd_core_HEAD/ko_tsdnew/layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to C:/users/1108/My Documents/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library C:/users/1108/My Documents/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell nch1x10 view layout
+Writing cell res980k view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell res98k view layout
+Writing cell ko_tsdnew view layout
+Writing cell res500 view layout
+Writing cell ko_bgr view layout
+Writing cell tsd_core view layout
+Writing cell pch1x20 view layout
+Writing cell res4k view layout
+Writing cell pch1x10 view layout
+ui().selectPoint(81500, 16500, 0)
+ui().selectArea(-12508, -43788, -5093, -50576, 0)
+ui().selectPoint(-12500, -50500, 0)
+# INFO: 1 object(s) copied with delta = (91.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(20000, -34500, 0)
+# INFO: Set current layer to ML1 drawing
+ui().selectPoint(20000, -34500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (20.000, -34.500)
+# INFO: Adding path point #2 at (37.000, -34.500)
+# INFO: Adding path point #3 at (37.000, -39.500)
+# INFO: Created path with 3 points
+ui().selectPoint(37000, -39500, 0)
+ui().selectPoint(28000, -32000, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview C:/users/1108/My Documents/ALBDATA/Glade/tsd_core_HEAD/ko_tsdnew/layout
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um-drc.py
+# INFO: Read 14 shapes from layer NWL drawing
+# INFO: Read 48 shapes from layer DIFF drawing
+# INFO: Read 24 shapes from layer POL drawing
+# INFO: Read 288 shapes from layer CNT drawing
+# INFO: Read 74 shapes from layer ML1 drawing
+# INFO: Read 86 shapes from layer VIA1 drawing
+# INFO: Read 77 shapes from layer ML2 drawing
+# INFO: Read 24 shapes from layer FRAME drawing
+# INFO: Read 19 shapes from layer Parea drawing
+# INFO: Read 24 shapes from layer Narea drawing
+# INFO: Read 72 shapes from layer DM_dcn drawing
+# INFO: Read 24 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 86 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 11 tasks
+# INFO: Build connectivity took 0.018 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.002 seconds
+# INFO: Total geomConnect time 0.030 seconds
+Check GAP
+Check Overlap
+# INFO: Read 264 shapes from layer DM_dcn drawing
+# INFO: Read 24 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 5 shapes from layer DM_pscn drawing
+# INFO: Read 124 shapes from layer DM_via1 drawing

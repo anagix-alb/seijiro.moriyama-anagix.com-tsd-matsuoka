@@ -1,0 +1,572 @@
+# Glade copyright 2017 Peardrop Design Systems. All rights reserved.
+# Glade release version 4.6.55 compiled on Sep  7 2018 10:54:15
+# Qt version 5.10.0 on 32 bit platform (little endian)
+# Compiled with Visual C++ version 13.1
+# Log file: Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/glade_09.10.2018_23.15.31.log
+# Username: 1108 Hostname: mineda.anagix.com
+# Current time: Tue Oct 09 23:15:32 2018
+# Operating system: Windows 7 SP 1 (6.1)
+# Number of CPUs: 6
+# Available memory: 31892 Mb
+# MAC address: E0:D5:5E:A3:54:E3
+# Display 0: Screen size (pixels): 1280 x 657
+# Logical dpi: 96.0 Physical dpi: 95.9
+# Display Scale Factor: 1.00
+# OpenGL vendor: VMware, Inc.
+# OpenGL renderer: llvmpipe (LLVM 5.0, 256 bits)
+# OpenGL version: 2.1 Mesa 17.2.3
+# Python version 2.7.4 (default, Apr  6 2013, 19:54:46) [MSC v.1500 32 bit (Intel)] for win32
+# PYTHONHOME is: Z:\opt\glade\glade4_win32
+# INFO: Reading global preferences file C:/users/1108/gladerc.xml
+# INFO: Loaded library basic from Z:/opt/glade/glade4_win32/basic
+# INFO: Reading library (version 540) /usr/local/share/MakeLSI/OpenRule1um/OpenRule1um
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell an21 view layout
+# INFO: Reading cell an31 view layout
+# INFO: Reading cell an41 view layout
+# INFO: Reading cell buf1 view layout
+# INFO: Reading cell buf2 view layout
+# INFO: Reading cell buf4 view layout
+# INFO: Reading cell buf8 view layout
+# INFO: Reading cell cellall view layout
+# INFO: Reading cell cinv view layout
+# INFO: Reading cell dcont view layout
+# INFO: Reading cell dff1 view layout
+# INFO: Reading cell dff1m2 view layout
+# INFO: Reading cell exnr view layout
+# INFO: Reading cell exor view layout
+# INFO: Reading cell inv1 view layout
+# INFO: Reading cell inv2 view layout
+# INFO: Reading cell inv4 view layout
+# INFO: Reading cell inv8 view layout
+# INFO: Reading cell na21 view layout
+# INFO: Reading cell na212 view layout
+# INFO: Reading cell na222 view layout
+# INFO: Reading cell na31 view layout
+# INFO: Reading cell na41 view layout
+# INFO: Reading cell nr21 view layout
+# INFO: Reading cell nr212 view layout
+# INFO: Reading cell nr222 view layout
+# INFO: Reading cell nr31 view layout
+# INFO: Reading cell nsubcont view layout
+# INFO: Reading cell or21 view layout
+# INFO: Reading cell or31 view layout
+# INFO: Reading cell pcont view layout
+# INFO: Reading cell psubcont view layout
+# INFO: Reading cell rff1 view layout
+# INFO: Reading cell rff1m2 view layout
+# INFO: Reading cell sff1 view layout
+# INFO: Reading cell sff1m2 view layout
+# INFO: Reading cell Via view layout
+# INFO: Rebinding library basic
+# INFO: Reading library (version 540) .
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell ko_bgr view layout
+# INFO: Reading cell ko_tsd view layout
+# INFO: Reading cell nch1x10 view layout
+# INFO: Reading cell nch1x20 view layout
+# INFO: Reading cell pch1x10 view layout
+# INFO: Reading cell pch1x20 view layout
+# INFO: Reading cell res4k view layout
+# INFO: Reading cell res500 view layout
+# INFO: Reading cell res980k view layout
+# INFO: Reading cell res98k view layout
+# INFO: Reading cell tsd_core view layout
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().openCellView("tsd_core_HEAD", "ko_tsd", "layout", 1)
+# INFO: Opened cell ko_tsd view layout
+# WARNING: For infix mode copy, select something first.
+ui().selectPoint(69500, -4000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-16.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-18.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCreatePath()
+# INFO: Adding path point #1 at (69.500, -4.000)
+# INFO: Adding path point #2 at (-1.500, -4.000)
+# INFO: Adding path point #3 at (-1.500, -4.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-1500, -4500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-1.500, -4.000)
+# INFO: Adding path point #2 at (69.500, -4.000)
+# INFO: Created path with 2 points
+ui().selectPoint(69500, -4000, 0)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().selectArea(141915, 4751, 143816, -18111, 0)
+ui().fpGlobalRoute()
+ui().selectPoint(-30000, -68500, 0)
+ui().selectPoint(-33000, -72000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-33.000, -72.000)
+# INFO: Adding path point #2 at (-33.000, -68.000)
+# INFO: Adding path point #3 at (-50.500, -68.000)
+# INFO: Adding path point #4 at (-50.500, -72.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-50500, -72000, 0)
+ui().selectPoint(-44000, -68500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-44000, -68500, 0)
+# INFO: Changed layer from ML2 drawing to ML1 drawing
+ui().selectPoint(-49000, -68500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-70.500, -72.000)
+# INFO: Adding path point #2 at (-70.500, -68.000)
+# INFO: Adding path point #3 at (-47.500, -68.000)
+# INFO: Adding path point #4 at (-47.500, -72.000)
+# INFO: Adding path point #5 at (-47.000, -72.000)
+# INFO: Created path with 5 points
+ui().selectPoint(-47000, -72000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editPath()
+# INFO: Adding path point #1 at (-70.500, -72.000)
+# INFO: Adding path point #2 at (-70.500, -69.000)
+# INFO: Adding path point #3 at (-47.500, -69.000)
+# INFO: Adding path point #4 at (-47.500, -72.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-47500, -72000, 0)
+ui().selectPoint(-56500, -69000, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-56500, -69000, 0)
+# INFO: Changed layer from ML1 drawing to ML2 drawing
+ui().selectPoint(-72000, -74000, 0)
+# INFO: Object mirrored about (-62.000, -75.000)
+ui().selectPoint(-57500, -74000, 0)
+ui().selectPoint(-58000, -73500, 0)
+# INFO: 1 object(s) moved by delta = (-12.000, 0.000)
+ui().selectPoint(-63000, -69000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-65500, -72000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-65.500, -72.000)
+# INFO: Adding path point #2 at (-65.500, -69.500)
+# INFO: Adding path point #3 at (-65.500, -68.500)
+# INFO: Adding path point #4 at (-47.500, -68.500)
+# INFO: Adding path point #5 at (-47.500, -72.500)
+# INFO: Adding path point #6 at (-47.000, -72.500)
+# INFO: Created path with 5 points
+ui().selectPoint(-47000, -72500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(-47500, -72500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-47.500, -72.500)
+# INFO: Adding path point #2 at (-47.500, -69.500)
+# INFO: Adding path point #3 at (-65.500, -69.500)
+# INFO: Adding path point #4 at (-65.500, -72.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-65500, -72000, 0)
+ui().selectPoint(-64500, -70000, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-64500, -70000, 0)
+# INFO: Changed layer from ML1 drawing to ML2 drawing
+ui().selectPoint(-90500, -73000, 0)
+ui().selectPoint(-91000, -73000, 0)
+# INFO: Object mirrored about (-92.000, -74.000)
+ui().selectPoint(-93500, -74000, 0)
+# INFO: 1 object(s) moved by delta = (6.500, 0.000)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-68.500, -72.500)
+# INFO: Adding path point #2 at (-68.500, -68.000)
+# INFO: Adding path point #3 at (-87.500, -68.000)
+# INFO: Adding path point #4 at (-87.500, -72.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-87500, -72000, 0)
+ui().selectPoint(-82000, -68500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-82000, -68500, 0)
+ui().selectPoint(-82000, -71000, 0)
+ui().selectArea(-15705, -66021, 51817, -79841, 0)
+ui().selectPoint(-15000, -78000, 0)
+# INFO: 1 object(s) moved by delta = (46.000, 0.000)
+ui().selectPoint(-10500, -79500, 0)
+# INFO: 1 object(s) moved by delta = (45.500, 0.000)
+ui().editUndo()
+# INFO: Undoing last move
+ui().selectPoint(-10000, -71000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-16000, -85500, 0)
+# INFO: Deleting 1 object(s)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (28.000, -86.000)
+# INFO: Adding path point #2 at (37.500, -86.000)
+# INFO: Adding path point #3 at (37.500, -69.500)
+# INFO: Adding path point #4 at (32.000, -69.500)
+# INFO: Adding path point #5 at (31.500, -69.500)
+# INFO: Created path with 4 points
+ui().selectPoint(31500, -69500, 0)
+ui().selectArea(-105769, -53683, -105294, -57495, 0)
+ui().selectArea(-101252, -62261, -19225, -95858, 0)
+ui().selectPoint(-19000, -96000, 0)
+ui().selectArea(-107909, -61784, -22554, -94190, 0)
+ui().selectArea(-104558, -62201, -896, -97467, 0)
+# INFO: 8 object(s) moved by delta = (37.500, 0.000)
+ui().selectPoint(59500, -83000, 0)
+ui().selectArea(-59272, -61755, 17285, -96067, 0)
+# INFO: 8 object(s) moved by delta = (-18.500, 0.000)
+ui().selectPoint(-14500, -45000, 0)
+ui().selectArea(-83048, -60801, 9202, -102739, 0)
+# INFO: 8 object(s) moved by delta = (-20.000, 0.000)
+ui().selectArea(-97314, -64137, -19329, -94638, 0)
+# INFO: 8 object(s) moved by delta = (-21.000, 0.000)
+ui().selectArea(-117761, -59848, -37398, -97974, 0)
+ui().selectPoint(-34500, -90000, 0)
+ui().selectPoint(-63500, -68500, 0)
+ui().selectArea(-63563, -68503, -37528, -74222, 0)
+ui().selectPoint(-63000, -67500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-81000, -70000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-98000, -68500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-70500, -76500, 0)
+# INFO: Object mirrored about (-69.500, -79.000)
+ui().selectPoint(-68500, -78000, 0)
+# INFO: 1 object(s) moved by delta = (-3.500, 0.000)
+ui().selectPoint(-63000, -80000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-70.000, -72.000)
+# INFO: Adding path point #2 at (-70.000, -68.000)
+# INFO: Adding path point #3 at (-55.000, -68.000)
+# INFO: Adding path point #4 at (-55.000, -72.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-55000, -72500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-73.000, -72.000)
+# INFO: Adding path point #2 at (-73.000, -68.000)
+# INFO: Adding path point #3 at (-87.500, -68.000)
+# INFO: Adding path point #4 at (-87.500, -72.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-87500, -72000, 0)
+ui().selectPoint(-90500, -72000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-90.500, -72.000)
+# INFO: Adding path point #2 at (-90.500, -68.000)
+# INFO: Adding path point #3 at (-109.500, -68.000)
+# INFO: Adding path point #4 at (-109.500, -72.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-109500, -72000, 0)
+ui().selectPoint(-109500, -72000, 0)
+ui().selectPoint(-103500, -70000, 0)
+ui().selectPoint(-23500, -56000, 0)
+ui().selectPoint(-71000, -28500, 0)
+ui().selectPoint(-61000, -5000, 0)
+ui().selectPoint(-47500, -46000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-48.500, -17.000)
+# INFO: Adding path point #2 at (-41.500, -17.000)
+# INFO: Adding path point #3 at (-41.500, -72.000)
+# INFO: Adding path point #4 at (-41.500, -72.500)
+# INFO: Adding path point #5 at (-52.000, -72.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-52000, -72500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-68.500, -17.500)
+# INFO: Adding path point #2 at (-62.500, -17.500)
+# INFO: Adding path point #3 at (-62.500, -61.500)
+# INFO: Adding path point #4 at (-73.000, -61.500)
+# INFO: Adding path point #5 at (-73.000, -68.500)
+# INFO: Adding path point #6 at (-73.000, -68.000)
+# INFO: Created path with 6 points
+ui().selectPoint(-73000, -68000, 0)
+ui().selectPoint(-69500, -65500, 0)
+ui().selectArea(20227, -61787, 58406, -93753, 0)
+# INFO: 2 object(s) moved by delta = (-53.000, 0.000)
+ui().selectPoint(26500, -78000, 0)
+ui().selectPoint(-57000, -89000, 0)
+# INFO: 1 Edge(s) stretched by (31.500, -1.000)
+ui().selectPoint(-83000, -90000, 0)
+ui().editUndo()
+# INFO: Undoing last stretch
+ui().selectPoint(-57000, -89000, 0)
+# INFO: Setting selection mode to PARTIAL
+# INFO: 1 Edge(s) stretched by (32.000, 1.500)
+ui().editUndo()
+# INFO: Undoing last stretch
+ui().selectPoint(-57000, -89500, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (31.000, 0.500)
+# INFO: 1 Edge(s) stretched by (31.000, 0.500)
+ui().selectArea(-30529, -65178, -11560, -88184, 0)
+# INFO: 2 object(s) moved by delta = (0.000, -1.500)
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().selectPoint(-62000, -24000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-40500, -44000, 0)
+# INFO: Deleting 1 object(s)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-49.000, -33.500)
+# INFO: Adding path point #2 at (-49.000, -65.000)
+# INFO: Adding path point #3 at (-51.500, -65.000)
+# INFO: Adding path point #4 at (-51.500, -71.500)
+# INFO: Adding path point #5 at (-51.000, -71.500)
+# INFO: Created path with 5 points
+ui().selectPoint(-51000, -71500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-49.000, -33.500)
+# INFO: Adding path point #2 at (-49.000, -68.500)
+# INFO: Adding path point #3 at (-49.000, -72.000)
+# INFO: Adding path point #4 at (-52.000, -72.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-52000, -72000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-69.500, -34.000)
+# INFO: Adding path point #2 at (-69.500, -64.000)
+# INFO: Adding path point #3 at (-73.000, -64.000)
+# INFO: Adding path point #4 at (-73.000, -68.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-73000, -68000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectArea(-118561, -62032, -611, -97398, 0)
+# INFO: 10 object(s) moved by delta = (4.000, 0.000)
+ui().selectPoint(-45000, -48500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-48.500, -34.000)
+# INFO: Adding path point #2 at (-48.500, -72.000)
+# INFO: Adding path point #3 at (-47.000, -72.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-47000, -72000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editPath()
+# INFO: Adding path point #1 at (-49.500, -66.500)
+# INFO: Adding path point #2 at (-49.500, -62.500)
+# INFO: Adding path point #3 at (-48.500, -62.500)
+# INFO: Adding path point #4 at (-47.500, -62.500)
+# INFO: Adding path point #5 at (-47.500, -62.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-47500, -62000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-49.000, -33.500)
+# INFO: Adding path point #2 at (-49.000, -72.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-49000, -72500, 0)
+ui().selectArea(-114460, -65758, -3272, -88771, 0)
+ui().selectArea(-121050, -61943, -5027, -95857, 0)
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 11 object(s) moved by delta = (-1.000, 0.000)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-69.000, -34.000)
+# INFO: Adding path point #2 at (-69.000, -38.000)
+# INFO: Adding path point #3 at (-67.500, -38.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-67500, -38000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-69.500, -34.500)
+# INFO: Adding path point #2 at (-69.500, -72.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-69500, -72500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-73.000, -17.500)
+# INFO: Adding path point #2 at (-73.000, -12.500)
+# INFO: Adding path point #3 at (-52.500, -12.500)
+# INFO: Adding path point #4 at (-52.500, -17.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-52500, -17000, 0)
+ui().openCellView("tsd_core_HEAD", "tsd_core", "layout", 1)
+# INFO: Opened cell tsd_core view layout
+ui().openCellView("tsd_core_HEAD", "pch1x10", "layout", 1)
+# INFO: Opened cell pch1x10 view layout
+ui().selectPoint(-29000, -22000, 0)
+ui().selectArea(-29040, -9838, -24744, -21762, 0)
+ui().selectPoint(-34000, -23000, 0)
+ui().selectPoint(-32500, -15500, 0)
+ui().selectArea(-32345, -9341, -23752, -15469, 0)
+ui().selectPoint(-28000, -26500, 0)
+ui().selectArea(-31354, -20768, -29371, -26564, 0)
+ui().selectPoint(-24500, -12000, 0)
+ui().selectArea(-39947, -21596, -29040, -29545, 0)
+ui().selectArea(-38955, -11991, -25074, -36666, 0)
+# INFO: Object mirrored about (-32.500, -25.000)
+ui().selectPoint(-32000, -10000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-52.500, -13.000)
+# INFO: Adding path point #2 at (-52.500, -12.500)
+# INFO: Adding path point #3 at (-52.500, -10.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-52500, -10000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-52.500, -12.500)
+# INFO: Adding path point #2 at (-39.000, -12.500)
+# INFO: Adding path point #3 at (-39.000, -33.500)
+# INFO: Adding path point #4 at (-34.000, -33.500)
+# INFO: Adding path point #5 at (-34.000, -34.000)
+# INFO: Created path with 5 points
+ui().selectPoint(-34000, -34000, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um_v110/OpenRule1um-drc_v110.py
+# INFO: Read 19 shapes from layer NWL drawing
+# INFO: Read 46 shapes from layer DIFF drawing
+# INFO: Read 23 shapes from layer POL drawing
+# INFO: Read 276 shapes from layer CNT drawing
+# INFO: Read 56 shapes from layer ML1 drawing
+# INFO: Read 84 shapes from layer VIA1 drawing
+# INFO: Read 80 shapes from layer ML2 drawing
+# INFO: Read 23 shapes from layer FRAME drawing
+# INFO: Read 19 shapes from layer Parea drawing
+# INFO: Read 23 shapes from layer Narea drawing
+# INFO: Read 69 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 84 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 9 tasks
+# INFO: Build connectivity took 0.017 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.001 seconds
+# INFO: Total geomConnect time 0.028 seconds
+Check GAP
+Check Overlap
+# INFO: Read 253 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 122 shapes from layer DM_via1 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+ui().selectPoint(-25500, 13000, 0)
+ui().selectArea(-39101, 16470, -23369, 2381, 0)
+ui().selectPoint(-30000, 9500, 0)
+ui().selectArea(-29059, 16023, -26158, 10544, 0)
+ui().selectArea(-42560, 19265, -24373, 2493, 0)
+ui().selectArea(-37762, 20495, -27609, -1084, 0)
+ui().selectArea(-39659, 8643, -26493, 1039, 0)
+ui().selectArea(-38097, 22396, -26716, -637, 0)
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a segment, use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 11 object(s) moved by delta = (0.000, -1.000)
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um_v110/OpenRule1um-drc_v110.py
+# INFO: Read 19 shapes from layer NWL drawing
+# INFO: Read 46 shapes from layer DIFF drawing
+# INFO: Read 23 shapes from layer POL drawing
+# INFO: Read 276 shapes from layer CNT drawing
+# INFO: Read 58 shapes from layer ML1 drawing
+# INFO: Read 84 shapes from layer VIA1 drawing
+# INFO: Read 80 shapes from layer ML2 drawing
+# INFO: Read 23 shapes from layer FRAME drawing
+# INFO: Read 19 shapes from layer Parea drawing
+# INFO: Read 23 shapes from layer Narea drawing
+# INFO: Read 69 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 84 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.005 seconds
+# INFO: Building connectivity graph, 9 tasks
+# INFO: Build connectivity took 0.012 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.003 seconds
+# INFO: Total geomConnect time 0.029 seconds
+Check GAP
+Check Overlap

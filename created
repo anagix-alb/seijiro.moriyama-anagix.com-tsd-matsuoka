@@ -1,0 +1,12 @@
+---
+comment: Created by ALB v2.0.5
+files:
+- nch1x10/
+- nch1x20/
+- pch1x10/
+- pch1x20/
+- res4k/
+- res500/
+- res980k/
+- res98k/
+- tsd_core/

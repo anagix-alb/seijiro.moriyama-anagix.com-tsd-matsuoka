@@ -1,0 +1,1957 @@
+# Glade copyright 2017 Peardrop Design Systems. All rights reserved.
+# Glade release version 4.6.55 compiled on Sep  7 2018 10:54:15
+# Qt version 5.10.0 on 32 bit platform (little endian)
+# Compiled with Visual C++ version 13.1
+# Log file: Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/glade_06.12.2018_11.05.01.log
+# Username: 1108 Hostname: mineda.anagix.com
+# Current time: Thu Dec 06 11:05:01 2018
+# Operating system: Windows 7 SP 1 (6.1)
+# Number of CPUs: 6
+# Available memory: 31892 Mb
+# MAC address: E0:D5:5E:A3:54:E3
+# Display 0: Screen size (pixels): 1366 x 745
+# Logical dpi: 96.0 Physical dpi: 96.1
+# Display Scale Factor: 1.00
+# OpenGL vendor: VMware, Inc.
+# OpenGL renderer: llvmpipe (LLVM 5.0, 256 bits)
+# OpenGL version: 2.1 Mesa 17.2.3
+# Python version 2.7.4 (default, Apr  6 2013, 19:54:46) [MSC v.1500 32 bit (Intel)] for win32
+# PYTHONHOME is: Z:\opt\glade\glade4_win32
+# INFO: Reading global preferences file C:/users/1108/gladerc.xml
+# INFO: Loaded library basic from Z:/opt/glade/glade4_win32/basic
+# INFO: Reading library (version 540) /usr/local/share/MakeLSI/OpenRule1um/OpenRule1um
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell an21 view layout
+# INFO: Reading cell an31 view layout
+# INFO: Reading cell an41 view layout
+# INFO: Reading cell buf1 view layout
+# INFO: Reading cell buf2 view layout
+# INFO: Reading cell buf4 view layout
+# INFO: Reading cell buf8 view layout
+# INFO: Reading cell cellall view layout
+# INFO: Reading cell cinv view layout
+# INFO: Reading cell dcont view layout
+# INFO: Reading cell dff1 view layout
+# INFO: Reading cell dff1m2 view layout
+# INFO: Reading cell exnr view layout
+# INFO: Reading cell exor view layout
+# INFO: Reading cell inv1 view layout
+# INFO: Reading cell inv2 view layout
+# INFO: Reading cell inv4 view layout
+# INFO: Reading cell inv8 view layout
+# INFO: Reading cell na21 view layout
+# INFO: Reading cell na212 view layout
+# INFO: Reading cell na222 view layout
+# INFO: Reading cell na31 view layout
+# INFO: Reading cell na41 view layout
+# INFO: Reading cell nr21 view layout
+# INFO: Reading cell nr212 view layout
+# INFO: Reading cell nr222 view layout
+# INFO: Reading cell nr31 view layout
+# INFO: Reading cell nsubcont view layout
+# INFO: Reading cell or21 view layout
+# INFO: Reading cell or31 view layout
+# INFO: Reading cell pcont view layout
+# INFO: Reading cell psubcont view layout
+# INFO: Reading cell rff1 view layout
+# INFO: Reading cell rff1m2 view layout
+# INFO: Reading cell sff1 view layout
+# INFO: Reading cell sff1m2 view layout
+# INFO: Reading cell Via view layout
+# INFO: Rebinding library basic
+# WARNING: Library default not found, creating new library!
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().fileOpenLib()
+Opening library tsd_core_HEAD
+# INFO: Reading library (version 540) Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Creating layer NWL purpose drawing
+# INFO: Creating layer NWL_dp purpose drawing
+# INFO: Creating layer DIFF purpose drawing
+# INFO: Creating layer POL purpose drawing
+# INFO: Creating layer HPOL purpose drawing
+# INFO: Creating layer CNT purpose drawing
+# INFO: Creating layer ML1 purpose drawing
+# INFO: Creating layer VIA1 purpose drawing
+# INFO: Creating layer ML2 purpose drawing
+# INFO: Creating layer VIA2 purpose drawing
+# INFO: Creating layer ML3 purpose drawing
+# INFO: Creating layer TEXT purpose drawing
+# INFO: Creating layer FRAME purpose drawing
+# INFO: Creating layer RES purpose drawing
+# INFO: Creating layer CAP purpose drawing
+# INFO: Creating layer DIO purpose drawing
+# INFO: Creating layer Parea purpose drawing
+# INFO: Creating layer Narea purpose drawing
+# INFO: Creating layer PAD purpose drawing
+# INFO: Creating layer DM_dcn purpose drawing
+# INFO: Creating layer DM_pcn purpose drawing
+# INFO: Creating layer DM_nscn purpose drawing
+# INFO: Creating layer DM_pscn purpose drawing
+# INFO: Creating layer DM_via1 purpose drawing
+# INFO: Creating layer DM_via2 purpose drawing
+# INFO: Reading cell ko_bgr view layout
+# INFO: Reading cell ko_tsd view layout
+# INFO: Reading cell nch1x10 view layout
+# INFO: Reading cell nch1x20 view layout
+# INFO: Reading cell pch1x10 view layout
+# INFO: Reading cell pch1x20 view layout
+# INFO: Reading cell res4k view layout
+# INFO: Reading cell res500 view layout
+# INFO: Reading cell res980k view layout
+# INFO: Reading cell res98k view layout
+# INFO: Reading cell tsd_core view layout
+# INFO: Rebinding library tsd_core_HEAD
+# INFO: Rebinding library default
+# INFO: Rebinding library OpenRule1um
+# INFO: Rebinding library basic
+ui().openCellView("tsd_core_HEAD", "ko_tsd", "layout", 1)
+# INFO: Opened cell ko_tsd view layout
+ui().selectPoint(40000, -8500, 0)
+ui().selectArea(41442, 21696, 45188, 9503, 0)
+ui().selectPoint(22000, 46500, 0)
+# INFO: Setting selection mode to PARTIAL
+ui().editStretch()
+# INFO: 1 Edge(s) stretched by (0.000, 0.000)
+ui().selectPoint(22000, 46500, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (-2.000, 0.000)
+# INFO: 1 Edge(s) stretched by (-2.000, 0.000)
+ui().selectPoint(-144000, 16500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-144.000, 16.500)
+# INFO: Adding path point #2 at (-138.500, 16.500)
+# INFO: Adding path point #3 at (-138.500, 40.000)
+# INFO: Adding path point #4 at (39.500, 40.000)
+# INFO: Created path with 4 points
+ui().selectPoint(39500, 40000, 0)
+ui().selectPoint(38000, 40000, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(38000, 40000, 0)
+# INFO: Changed layer from NWL drawing to ML2 drawing
+ui().editUndo()
+# INFO: Undoing last create
+# INFO: Set current layer to ML1 drawing
+ui().editPath()
+# INFO: Adding path point #1 at (-144.000, 16.500)
+# INFO: Adding path point #2 at (-136.500, 16.500)
+# INFO: Adding path point #3 at (-136.500, 46.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-136500, 46500, 0)
+ui().selectPoint(-125000, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-125.000, 16.000)
+# INFO: Adding path point #2 at (-120.500, 16.000)
+# INFO: Adding path point #3 at (-120.500, 46.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-120500, 46500, 0)
+ui().selectPoint(-120500, 37000, 0)
+ui().editCopy()
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().selectPoint(-120500, 34500, 0)
+# INFO: Setting selection mode to FULL
+ui().selectPoint(-120500, 34500, 0)
+ui().editCopy()
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().selectPoint(-120500, 34500, 0)
+ui().selectPoint(-120500, 34500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (18.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-102500, 34500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (20.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-81500, 40000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (56.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editUndo()
+# INFO: Undoing last copy
+ui().selectPoint(-81000, 35500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (56.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-25500, 36500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (16.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(-9500, 34500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (16.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(6500, 24500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (18.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(20000, 46500, 0)
+# INFO: Setting selection mode to PARTIAL
+ui().editStretch()
+# INFO: 1 Edge(s) stretched by (5.000, 0.000)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(25000, 46500, 0)
+ui().selectPoint(-139000, 46500, 0)
+ui().editStretch()
+ui().selectPoint(-139000, 46000, 0)
+ui().editStretch()
+# WARNING: Please select something first.
+ui().selectPoint(-139000, 46500, 0)
+ui().editStretch()
+# INFO: Stretching edge(s) of segment by (0.000, -0.500)
+# INFO: 1 Edge(s) stretched by (0.000, -0.500)
+ui().editUndo()
+# INFO: Undoing last stretch
+ui().selectPoint(-138500, 46500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-138500, 46500, 0)
+ui().selectPoint(-138500, 46500, 0)
+ui().editStretch()
+ui().selectPoint(11500, 46500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(25000, 46500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (25.000, 46.500)
+# INFO: Adding path point #2 at (-144.500, 46.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-144500, 46500, 0)
+ui().selectArea(-132896, 25470, -132523, 16868, 0)
+ui().selectPoint(-117500, 30000, 0)
+# INFO: Setting selection mode to FULL
+ui().selectPoint(-118000, 29500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-18.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um-drc.py
+# INFO: Read 22 shapes from layer NWL drawing
+# INFO: Read 46 shapes from layer DIFF drawing
+# INFO: Read 23 shapes from layer POL drawing
+# INFO: Read 276 shapes from layer CNT drawing
+# INFO: Read 54 shapes from layer ML1 drawing
+# INFO: Read 84 shapes from layer VIA1 drawing
+# INFO: Read 69 shapes from layer ML2 drawing
+# INFO: Read 23 shapes from layer FRAME drawing
+# INFO: Read 19 shapes from layer Parea drawing
+# INFO: Read 23 shapes from layer Narea drawing
+# INFO: Read 69 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 84 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 11 tasks
+# INFO: Build connectivity took 0.013 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.002 seconds
+# INFO: Total geomConnect time 0.025 seconds
+Check GAP
+Check Overlap
+# INFO: Read 253 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 122 shapes from layer DM_via1 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+# ERROR: No drc marker shapes to view!
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().selectArea(-65222, -19375, -59994, -22741, 0)
+ui().selectArea(-161271, -5898, 34411, -39186, 0)
+ui().editMove()
+# INFO: 16 object(s) moved by delta = (0.000, 12.500)
+ui().selectPoint(-148000, -16000, 0)
+# INFO: Setting selection mode to PARTIAL
+ui().selectPoint(-148000, -16000, 0)
+ui().editStretch()
+ui().editUndo()
+# INFO: Undoing last move
+ui().editRedo()
+# INFO: Redoing last move
+ui().selectPoint(-148000, -16000, 0)
+ui().selectPoint(-148000, -16000, 0)
+ui().selectPoint(-148000, -15500, 0)
+ui().editStretch()
+ui().selectPoint(-148000, -16000, 0)
+ui().editStretch()
+ui().selectPoint(-148000, -500, 0)
+ui().selectPoint(-148000, -2000, 0)
+ui().selectArea(-142707, -9022, -142567, -11594, 0)
+ui().selectArea(-141727, 7951, -141587, 7483, 0)
+ui().selectPoint(-148000, 0, 0)
+ui().zoomIn(-148124, 142, -148077, 95)
+ui().selectPoint(-148000, 500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-148000, 16500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-148.000, 16.500)
+ui().zoomIn(-147880, -2142, -147819, -2204)
+# INFO: Adding path point #2 at (-148.000, 7.000)
+# INFO: Adding path point #3 at (-147.500, 7.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-147500, 7000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectArea(-80192, -4158, -76867, -4316, 0)
+ui().selectArea(-158804, 5757, 36542, -26587, 0)
+ui().editMove()
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a segment, use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 24 object(s) moved by delta = (-75.500, 0.000)
+ui().editUndo()
+# INFO: Undoing last move
+ui().editUndo()
+# INFO: Undoing last delete
+ui().editUndo()
+# INFO: Undoing last move
+ui().selectPoint(72500, -16500, 0)
+ui().selectPoint(-147000, -33000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-147.000, -33.000)
+# INFO: Adding path point #2 at (-147.000, -40.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-147000, -40500, 0)
+ui().selectPoint(-147000, -37500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-147000, -37500, 0)
+# INFO: Changed layer from ML1 drawing to ML2 drawing
+# INFO: Set current layer to ML2 drawing
+ui().selectPoint(-58500, 10000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(25500, 1500, 0)
+ui().selectArea(25404, 8609, 32053, 1632, 0)
+ui().selectPoint(26000, 0, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-65000, -9000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-147500, 2500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-128000, 2500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-110000, 0, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-89000, 1500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-34000, -500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-17500, 1000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-2000, 0, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(16000, 3000, 0)
+ui().zoomIn(15906, 3535, 16223, 3218)
+ui().selectPoint(16500, 0, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-158709, 59, -74246, -39809, 0)
+ui().editMove()
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 8 object(s) moved by delta = (0.000, 16.000)
+ui().selectArea(-36863, -4797, 27797, -40214, 0)
+ui().editMove()
+# INFO: 8 object(s) moved by delta = (0.000, 15.500)
+ui().selectPoint(-11500, -33000, 0)
+ui().selectPoint(-131500, 4000, 0)
+ui().selectPoint(-147500, 33000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-147.500, 33.000)
+# INFO: Adding path point #2 at (-154.000, 33.000)
+# INFO: Adding path point #3 at (-154.000, 10.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-154000, 10500, 0)
+ui().selectPoint(-154000, 10500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-154.000, 10.500)
+# INFO: Adding path point #2 at (28.500, 10.500)
+# INFO: Created path with 2 points
+ui().selectPoint(28500, 10500, 0)
+ui().selectPoint(11000, 10000, 0)
+ui().selectPoint(11000, 12000, 0)
+ui().selectPoint(11000, 11000, 0)
+ui().selectPoint(11000, 10000, 0)
+ui().selectPoint(11000, 10000, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(11000, 10000, 0)
+ui().selectPoint(11000, 11500, 0)
+ui().editStretch()
+ui().selectPoint(11000, 11500, 0)
+ui().editStretch()
+# INFO: Stretching edge(s) of segment by (1.000, -0.500)
+# INFO: 1 Edge(s) stretched by (1.000, -0.500)
+ui().editUndo()
+# INFO: Undoing last stretch
+ui().selectPoint(-82500, 6500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(-154000, 11000, 0)
+ui().editStretch()
+ui().selectPoint(-154000, 10500, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (0.000, -1.000)
+# INFO: 1 Edge(s) stretched by (0.000, -1.000)
+ui().selectPoint(-154000, 9500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-154.000, 9.500)
+# INFO: Adding path point #2 at (30.000, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(30000, 9500, 0)
+ui().selectPoint(-146000, -36000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-169225, 4009, -157504, -24730, 0)
+ui().selectArea(-156696, 6438, 28811, -21087, 0)
+ui().editMove()
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 14 object(s) moved by delta = (0.000, 1.500)
+ui().editUndo()
+# INFO: Undoing last move
+ui().selectArea(-157347, 6732, 23714, -23222, 0)
+ui().editMove()
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a segment, use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 15 object(s) moved by delta = (0.000, -0.500)
+ui().selectPoint(-132000, 4500, 0)
+ui().selectPoint(-132000, 4500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-113000, 4500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-93000, 4000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-30000, 3500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-14500, 3500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(1000, 3000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(20500, 3500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-29951, -25897, -22070, -26099, 0)
+ui().selectArea(-155442, 2437, 31884, -24076, 0)
+ui().editMove()
+# INFO: 8 object(s) moved by delta = (0.000, 5.000)
+ui().selectArea(-137861, 5675, -123312, -18409, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, 1.500)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-150.500, 4.000)
+# INFO: Adding path point #2 at (-150.500, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-150500, 9500, 0)
+ui().selectPoint(-132000, 4500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-132.000, 4.500)
+# INFO: Adding path point #2 at (-132.000, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-132000, 9500, 0)
+ui().selectPoint(-132000, 8000, 0)
+ui().editCopy()
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().selectPoint(-132000, 7500, 0)
+ui().selectPoint(-132000, 7500, 0)
+ui().editCopy()
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().selectPoint(-132000, 7000, 0)
+ui().editCopy()
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().selectPoint(-132000, 7500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-132000, 7500, 0)
+ui().selectPoint(-132000, 8000, 0)
+ui().editCopy()
+# WARNING: Segments cannot be copied - select shape in full mode!
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-113.500, 4.000)
+# INFO: Adding path point #2 at (-113.500, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-113500, 9500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-92.500, 3.500)
+# INFO: Adding path point #2 at (-92.500, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-92500, 9500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-30.500, 3.500)
+# INFO: Adding path point #2 at (-30.500, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-30500, 9500, 0)
+ui().selectPoint(-14500, 3500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-14.500, 3.500)
+# INFO: Adding path point #2 at (-14.500, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-14500, 9500, 0)
+ui().selectPoint(1000, 2500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (1.000, 2.500)
+# INFO: Adding path point #2 at (1.000, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(1000, 9500, 0)
+ui().selectPoint(20000, 3500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (20.000, 3.500)
+# INFO: Adding path point #2 at (20.000, 9.500)
+# INFO: Created path with 2 points
+ui().selectPoint(20000, 9500, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().selectPoint(46000, 24500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-147.000, -12.500)
+# INFO: Adding path point #2 at (-142.000, -12.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-142000, -12500, 0)
+ui().selectPoint(-142000, -12500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+# INFO: Set current layer to ML1 drawing
+ui().editPath()
+# INFO: Adding path point #1 at (-147.000, -12.500)
+# INFO: Adding path point #2 at (-137.000, -12.500)
+# INFO: Adding path point #3 at (-137.000, 16.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-137000, 16500, 0)
+ui().selectPoint(-137000, 16500, 0)
+ui().selectPoint(-120500, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-120.500, 16.000)
+# INFO: Adding path point #2 at (-120.500, -12.500)
+# INFO: Adding path point #3 at (-128.500, -12.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-128500, -12500, 0)
+ui().selectPoint(-102000, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-102.000, 16.000)
+# INFO: Adding path point #2 at (-102.000, -12.500)
+# INFO: Adding path point #3 at (-110.000, -12.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-110000, -12500, 0)
+ui().selectPoint(-81500, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-81.500, 16.000)
+# INFO: Adding path point #2 at (-81.500, -13.000)
+# INFO: Adding path point #3 at (-89.000, -13.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-89000, -13000, 0)
+ui().selectPoint(-25500, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-25.500, 16.000)
+# INFO: Adding path point #2 at (-25.500, -13.500)
+# INFO: Adding path point #3 at (-25.000, -13.500)
+# INFO: Adding path point #4 at (-25.000, -13.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-25000, -13000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editMirrorY()
+# WARNING: Please select something first.
+ui().editRotate90()
+# WARNING: Please select something first.
+ui().selectArea(-39042, 5472, -36672, 1909, 0)
+ui().editRotate90()
+# WARNING: Please select something first.
+ui().selectArea(-36841, 7169, -25499, -17261, 0)
+ui().selectPoint(-25500, -17500, 0)
+ui().selectPoint(-25500, -17000, 0)
+ui().selectArea(-37857, 6660, -24822, -18109, 0)
+ui().selectPoint(-31500, -2500, 0)
+ui().selectArea(-37857, 5812, -25160, -16752, 0)
+ui().editRotate90()
+# INFO: Object rotated about (-32.500, -2.000)
+ui().editUndo()
+# INFO: Undoing last rotate
+ui().selectArea(-37010, 6151, -24144, -17939, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-31.500, -2.000)
+ui().selectPoint(-30500, 7000, 0)
+ui().editMove()
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+ui().selectPoint(-30500, 7000, 0)
+ui().selectArea(-31928, 8370, -28119, 4638, 0)
+ui().selectArea(-31590, 10321, -29050, 3026, 0)
+ui().editMove()
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+ui().selectPoint(-30500, 7000, 0)
+ui().selectPoint(-30500, 6500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-30500, 6500, 0)
+ui().selectPoint(-31000, 7000, 0)
+# INFO: Setting selection mode to FULL
+# WARNING: For infix mode move, select something first.
+ui().selectPoint(-30000, 7000, 0)
+ui().selectPoint(-30500, 6500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-2.000, 0.000)
+ui().selectPoint(-26000, 6500, 0)
+ui().selectPoint(-25500, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-25.500, 16.000)
+# INFO: Adding path point #2 at (-25.500, -13.500)
+ui().zoomIn(-25549, -12145, -25507, -12188)
+# INFO: Adding path point #3 at (-25.500, -13.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-25500, -13000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(-25500, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-25.500, 16.000)
+# INFO: Adding path point #2 at (-25.500, -13.000)
+# INFO: Adding path point #3 at (-29.000, -13.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-29000, -13000, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-9.000, -17.000)
+ui().selectArea(42240, 30596, 44506, 20947, 0)
+ui().selectPoint(-25500, 16000, 0)
+# INFO: Setting selection mode to PARTIAL
+ui().selectPoint(-25500, 16000, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (0.000, 30.500)
+# INFO: 1 Edge(s) stretched by (0.000, 30.500)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-25500, 46500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-30.000, 16.000)
+# INFO: Adding path point #2 at (-25.500, 16.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-25500, 16000, 0)
+ui().selectPoint(-25500, 16000, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-22.000, -2.000)
+ui().selectArea(-22871, 6392, -8146, -16452, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-18.500, -2.000)
+ui().selectArea(-26836, 6250, -14943, -17019, 0)
+ui().selectPoint(-17500, 0, 0)
+ui().selectArea(-24146, 6534, -16500, -18438, 0)
+ui().selectArea(-26836, 6960, -15226, -17019, 0)
+ui().editMove()
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 2 object(s) moved by delta = (8.000, 0.000)
+ui().selectArea(-20464, 5683, -7014, -16026, 0)
+ui().editMove()
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 2 object(s) moved by delta = (-3.000, 0.000)
+ui().selectPoint(-14500, 7500, 0)
+# INFO: Setting selection mode to FULL
+ui().editMove()
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+ui().selectPoint(-15000, 7000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-3.000, 0.000)
+ui().selectPoint(-9500, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-9.500, 16.000)
+# INFO: Adding path point #2 at (-9.500, -13.000)
+# INFO: Adding path point #3 at (-14.000, -13.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-14000, -13000, 0)
+ui().selectPoint(9000, 3000, 0)
+ui().selectPoint(8500, 16000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-6473, 6236, 7118, -19872, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-0.500, -1.500)
+ui().selectArea(-6017, 5347, 4317, -18773, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (1.000, 0.000)
+ui().selectPoint(500, 7000, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-2.000, 0.000)
+ui().selectPoint(6500, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (6.500, 16.000)
+# INFO: Adding path point #2 at (6.500, -14.000)
+# INFO: Adding path point #3 at (3.000, -14.000)
+# INFO: Created path with 3 points
+ui().selectPoint(3000, -14000, 0)
+ui().selectArea(12860, 5976, 26452, -17862, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (19.000, -3.500)
+ui().selectPoint(20000, 7500, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-2.000, 0.000)
+ui().selectPoint(25000, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (25.000, 16.000)
+# INFO: Adding path point #2 at (25.000, -13.000)
+# INFO: Adding path point #3 at (21.500, -13.000)
+# INFO: Adding path point #4 at (21.500, -13.500)
+# INFO: Created path with 4 points
+ui().selectPoint(21500, -13500, 0)
+ui().selectPoint(34500, -6500, 0)
+ui().selectPoint(-70000, -25500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-49000, -15000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-123674, -50041, 14512, -91474, 0)
+ui().editMove()
+# INFO: 10 object(s) moved by delta = (0.000, 28.500)
+ui().selectPoint(-64000, -9000, 0)
+ui().editUndo()
+# INFO: Undoing last move
+ui().editUndo()
+# INFO: Undoing last delete
+ui().editRedo()
+# INFO: Redoing last delete
+ui().editRedo()
+# INFO: Redoing last move
+ui().selectPoint(22000, -32500, 0)
+ui().editUndo()
+# INFO: Undoing last move
+ui().editUndo()
+# INFO: Undoing last delete
+ui().editCreateRect()
+ui().editRedo()
+# INFO: Redoing last delete
+ui().editRedo()
+# INFO: Redoing last move
+# INFO: Creating rectangle on layer ML1 at (-123.000, -30.000) (-116.000, -1.000)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-49.000, 15.000)
+# INFO: Adding path point #2 at (-49.000, -31.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-49000, -31500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-69.500, 14.500)
+# INFO: Adding path point #2 at (-69.500, -31.500)
+# INFO: Adding path point #3 at (-70.000, -31.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-70000, -31500, 0)
+ui().selectArea(-69597, -20240, -67544, -21233, 0)
+ui().selectPoint(-69000, -20000, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-69000, -20000, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um-drc.py
+# INFO: Read 22 shapes from layer NWL drawing
+# INFO: Read 46 shapes from layer DIFF drawing
+# INFO: Read 23 shapes from layer POL drawing
+# INFO: Read 276 shapes from layer CNT drawing
+# INFO: Read 54 shapes from layer ML1 drawing
+# INFO: Read 84 shapes from layer VIA1 drawing
+# INFO: Read 69 shapes from layer ML2 drawing
+# INFO: Read 23 shapes from layer FRAME drawing
+# INFO: Read 19 shapes from layer Parea drawing
+# INFO: Read 23 shapes from layer Narea drawing
+# INFO: Read 69 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 84 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 11 tasks
+# INFO: Build connectivity took 0.012 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.002 seconds
+# INFO: Total geomConnect time 0.024 seconds
+Check GAP
+Check Overlap
+# INFO: Read 253 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 122 shapes from layer DM_via1 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+# ERROR: No drc marker shapes to view!
+ui().selectPoint(-70000, -6500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-48500, -5000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-56838, 37097, -42567, 11133, 0)
+ui().editMirrorX()
+# INFO: Object mirrored about (-50.500, 24.000)
+ui().selectArea(-78115, 35799, -64363, 12691, 0)
+ui().editMirrorX()
+# INFO: Object mirrored about (-71.500, 24.000)
+ui().selectPoint(-59500, 21000, 0)
+ui().selectArea(-56838, 35799, -43865, 11912, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-50.500, 25.500)
+ui().editMirrorY()
+# INFO: Object mirrored about (-64.500, 11.500)
+ui().editUndo()
+# INFO: Undoing last rotate
+ui().selectArea(-78115, 37097, -64882, 12691, 0)
+ui().editMirrorX()
+# INFO: Object mirrored about (-71.000, 25.500)
+ui().editUndo()
+# INFO: Undoing last rotate
+ui().selectArea(-77596, 35539, -63584, 12431, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-71.500, 24.000)
+ui().selectArea(-77596, 35020, -66179, 11912, 0)
+ui().editMirrorX()
+# INFO: Object mirrored about (-71.500, 24.500)
+ui().selectArea(-57617, 35280, -44643, 12172, 0)
+ui().editMirrorX()
+# INFO: Object mirrored about (-50.500, 23.500)
+ui().selectArea(-78374, 36578, -64622, 11912, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, -3.000)
+ui().selectPoint(-62000, 26000, 0)
+ui().selectArea(-77596, 33462, -64103, 11393, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, 2.000)
+ui().selectPoint(-64000, 20500, 0)
+ui().selectPoint(-52000, -9500, 0)
+ui().selectArea(-79374, 35308, -77298, 17393, 0)
+ui().selectPoint(-49000, 14500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-48.500, 14.500)
+# INFO: Adding path point #2 at (-48.500, -21.000)
+# INFO: Adding path point #3 at (-12.500, -21.000)
+# INFO: Adding path point #4 at (-12.500, -31.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-12500, -31000, 0)
+ui().selectPoint(-2500, -31000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectArea(-78056, 36814, -43286, 11368, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (0.000, -30.000)
+ui().selectPoint(-49000, -15500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-49.000, -15.500)
+# INFO: Adding path point #2 at (-49.000, -23.000)
+# INFO: Adding path point #3 at (-18.500, -23.000)
+# INFO: Adding path point #4 at (-18.500, -30.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-18500, -30500, 0)
+ui().selectPoint(-69500, 1500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-70.000, 1.500)
+# INFO: Adding path point #2 at (-70.000, 7.500)
+# INFO: Adding path point #3 at (-49.000, 7.500)
+# INFO: Adding path point #4 at (-49.000, 6.000)
+# INFO: Adding path point #5 at (-50.000, 6.000)
+# INFO: Created path with 5 points
+ui().selectPoint(-50000, 6000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(-48000, 1000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-48.000, 1.000)
+# INFO: Adding path point #2 at (-48.000, 7.000)
+# INFO: Adding path point #3 at (-69.500, 7.000)
+# INFO: Adding path point #4 at (-69.500, 6.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-69500, 6500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(-70000, 1500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-70.000, 1.500)
+# INFO: Adding path point #2 at (-70.000, 7.000)
+# INFO: Adding path point #3 at (-48.500, 7.000)
+# INFO: Adding path point #4 at (-48.500, 1.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-48500, 1000, 0)
+ui().selectPoint(-48500, 1000, 0)
+ui().selectPoint(52000, 24500, 0)
+ui().selectPoint(-34000, -23500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-78410, 8026, -41944, -19220, 0)
+ui().editMove()
+# INFO: 3 object(s) moved by delta = (0.000, 29.500)
+ui().selectPoint(-22500, -49000, 0)
+# INFO: Setting selection mode to PARTIAL
+ui().selectPoint(-22500, -48500, 0)
+ui().selectPoint(-24000, -48500, 0)
+ui().editStretch()
+ui().selectPoint(-23000, -48500, 0)
+ui().editStretch()
+ui().editStretch()
+# WARNING: Please select something first.
+ui().selectPoint(-22000, -48500, 0)
+ui().selectPoint(-23500, -48500, 0)
+ui().selectPoint(-25500, -48500, 0)
+ui().editStretch()
+ui().selectPoint(-24000, -49000, 0)
+ui().editStretch()
+# INFO: Stretching edge(s) of segment by (-3.500, -7.000)
+# INFO: 1 Edge(s) stretched by (-3.500, -7.000)
+ui().selectPoint(-33000, -57000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-28562, -28791, -2840, -51632, 0)
+ui().selectArea(-28236, -23896, -4793, -56853, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-13.000, 0.000)
+ui().selectArea(-76082, 40676, -43078, 11126, 0)
+ui().selectArea(-78767, 39422, -44243, 11176, 0)
+ui().editMove()
+# INFO: 3 object(s) moved by delta = (0.000, -94.000)
+ui().selectArea(-47279, 37376, 31066, -17078, 0)
+ui().editMove()
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a segment, use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 29 object(s) moved by delta = (-36.000, 0.000)
+ui().selectPoint(-1500, 3000, 0)
+ui().selectArea(-2315, 43655, 20429, 13261, 0)
+ui().selectArea(-630, 44499, 10320, 14950, 0)
+ui().selectArea(-2315, 44499, 11163, 14105, 0)
+ui().selectArea(-1894, 44499, 13269, 15794, 0)
+ui().selectPoint(-9000, 32500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-14000, 41000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-25000, 39500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-30500, 40000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-29000, 3000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(2000, 44500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(7000, 35000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(18500, 37000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(25000, 33000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-10000, 5000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-45000, 4000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-10500, -32500, 0)
+ui().selectPoint(-76500, -46500, 0)
+ui().selectPoint(-101000, -46500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-101000, -46500, 0)
+ui().selectArea(-112267, -24126, -44031, -49876, 0)
+# INFO: Deleting 7 object(s)
+ui().selectPoint(23500, 45000, 0)
+ui().editStretch()
+ui().selectPoint(25000, 46500, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (-33.000, 0.500)
+# INFO: 1 Edge(s) stretched by (-33.000, 0.500)
+ui().selectPoint(30000, 10000, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (-37.500, -0.500)
+# INFO: 1 Edge(s) stretched by (-37.500, -0.500)
+ui().selectPoint(-62000, 16500, 0)
+ui().selectArea(-66306, 43043, -54789, 16902, 0)
+ui().selectPoint(-62000, 16000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-125500, 40500, 0)
+# INFO: Deleting 1 object(s)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-125.500, 32.500)
+# INFO: Adding path point #2 at (-120.500, 32.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-120500, 32500, 0)
+ui().selectPoint(-107000, 35500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-107000, 32500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-107.000, 32.500)
+# INFO: Adding path point #2 at (-102.000, 32.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-102000, 32500, 0)
+ui().selectPoint(-86000, 34500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-86500, 32000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-86.500, 32.000)
+# INFO: Adding path point #2 at (-81.500, 32.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-81500, 32000, 0)
+ui().selectPoint(-65000, -13000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-65.000, -13.000)
+# INFO: Adding path point #2 at (-60.500, -13.000)
+# INFO: Adding path point #3 at (-60.500, 46.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-60500, 46500, 0)
+ui().selectPoint(-65500, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-65.500, 16.000)
+# INFO: Adding path point #2 at (-60.500, 16.000)
+# INFO: Adding path point #3 at (-60.500, 16.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-60500, 16500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-66.000, 16.000)
+# INFO: Adding path point #2 at (-60.500, 16.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-60500, 16000, 0)
+ui().selectPoint(-60500, 16000, 0)
+ui().selectPoint(-66500, 32500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-66.500, 32.500)
+# INFO: Adding path point #2 at (-60.500, 32.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-60500, 32500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-50.000, -13.000)
+# INFO: Adding path point #2 at (-45.000, -13.000)
+# INFO: Adding path point #3 at (-45.000, 46.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-45000, 46500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-50.000, 15.500)
+# INFO: Adding path point #2 at (-45.000, 15.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-45000, 15500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-50.500, 32.000)
+# INFO: Adding path point #2 at (-45.000, 32.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-45000, 32000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-33.500, -14.000)
+# INFO: Adding path point #2 at (-28.500, -14.000)
+# INFO: Adding path point #3 at (-28.500, 46.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-28500, 46500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-34.000, 16.500)
+# INFO: Adding path point #2 at (-28.500, 16.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-28500, 16500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-34.500, 33.000)
+# INFO: Adding path point #2 at (-28.500, 33.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-28500, 33000, 0)
+ui().selectPoint(-14500, -13000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-14.500, -13.000)
+# INFO: Adding path point #2 at (-9.500, -13.000)
+# INFO: Adding path point #3 at (-9.500, 46.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-9500, 46500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-16.000, 33.500)
+# INFO: Adding path point #2 at (-9.500, 33.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-9500, 33500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-15.500, 16.500)
+# INFO: Adding path point #2 at (-9.500, 16.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-9500, 16500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-19.500, 16.000)
+# INFO: Adding path point #2 at (-19.500, 11.500)
+# INFO: Adding path point #3 at (-14.500, 11.500)
+# INFO: Adding path point #4 at (-15.000, 11.500)
+# INFO: Adding path point #5 at (-15.000, 3.500)
+# INFO: Created path with 5 points
+ui().selectPoint(-15000, 3500, 0)
+ui().selectPoint(-34000, 2500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-34.000, 2.500)
+# INFO: Adding path point #2 at (-34.000, 10.500)
+# INFO: Adding path point #3 at (-38.000, 10.500)
+# INFO: Adding path point #4 at (-38.000, 16.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-38000, 16500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-54.000, 15.500)
+# INFO: Adding path point #2 at (-54.000, 10.000)
+# INFO: Adding path point #3 at (-50.500, 10.000)
+# INFO: Adding path point #4 at (-50.500, 3.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-50500, 3500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-65.500, 3.500)
+# INFO: Adding path point #2 at (-65.500, 10.000)
+# INFO: Adding path point #3 at (-70.000, 10.000)
+# INFO: Adding path point #4 at (-70.000, 16.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-70000, 16000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-90.000, 15.500)
+# INFO: Adding path point #2 at (-90.000, 10.000)
+# INFO: Adding path point #3 at (-90.000, 4.000)
+# INFO: Adding path point #4 at (-89.500, 4.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-89500, 4000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-129.000, 16.000)
+# INFO: Adding path point #2 at (-129.000, 4.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-129000, 4500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-148.000, 16.500)
+# INFO: Adding path point #2 at (-148.000, 7.500)
+# INFO: Adding path point #3 at (-148.000, 4.000)
+# INFO: Adding path point #4 at (-147.500, 4.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-147500, 4000, 0)
+ui().selectArea(-83715, -52644, -30654, -94103, 0)
+ui().editMove()
+# INFO: 3 object(s) moved by delta = (-40.000, 0.000)
+ui().selectArea(-123693, -43189, -75719, -86830, 0)
+ui().editMove()
+# INFO: 3 object(s) moved by delta = (0.000, 27.500)
+ui().selectArea(-43737, -21368, -7394, -55554, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (0.000, -33.000)
+ui().selectArea(-122617, -26502, -75734, -60324, 0)
+ui().selectPoint(-70000, -58000, 0)
+ui().selectArea(-120800, -28320, -78641, -56687, 0)
+ui().editMove()
+# INFO: 3 object(s) moved by delta = (-14.000, 0.000)
+ui().selectPoint(-87500, -44500, 0)
+ui().selectArea(-132639, -27697, -93158, -58079, 0)
+ui().editMove()
+# INFO: 3 object(s) moved by delta = (9.500, 0.000)
+ui().selectPoint(-114500, -30000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-114.500, -30.000)
+# INFO: Adding path point #2 at (-114.500, -18.500)
+# INFO: Adding path point #3 at (-115.500, -18.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-115500, -18500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(-114000, -30000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-114.000, -30.000)
+# INFO: Adding path point #2 at (-114.000, -12.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-114000, -12500, 0)
+ui().selectPoint(-92500, -5500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-92500, -5500, 0)
+# INFO: Creating instance I19 (master tsd_core_HEAD nch1x10 layout) origin (-63.500 -79.000) orientation R0
+ui().openCellView("tsd_core_HEAD", "nch1x10", "layout", 1)
+# INFO: Opened cell nch1x10 view layout
+ui().selectArea(-78205, -59266, -51180, -90578, 0)
+ui().editCopy()
+# WARNING: Inst name I20 already exists, renaming to I20_20
+# INFO: 1 object(s) copied with delta = (-20.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(-98086, -60612, -52927, -85519, 0)
+ui().editCopy()
+# INFO: 2 object(s) copied with delta = (-50.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(-153256, -56052, -99918, -91634, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-36.500, 0.000)
+ui().selectArea(-94229, -61033, -47291, -83094, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-34.000, 0.000)
+ui().selectArea(-45158, -58898, -17422, -82383, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-34.000, 0.000)
+ui().selectArea(-98652, -58862, -89939, -82349, 0)
+ui().selectPoint(-90000, -82500, 0)
+ui().selectArea(-107542, -59930, -87094, -82171, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-98.000, -70.500)
+ui().selectPoint(-96500, -60000, 0)
+ui().selectArea(-108076, -59574, -89228, -81993, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (7.000, 0.000)
+ui().selectPoint(-96500, -53000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-96.500, -53.000)
+# INFO: Adding path point #2 at (-96.500, -63.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-96500, -63500, 0)
+ui().selectArea(-130201, -59867, -108864, -81574, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-117.000, -70.000)
+ui().selectArea(-127712, -53640, -105308, -85311, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (3.500, 0.000)
+ui().selectPoint(-117500, -52500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-117.500, -52.500)
+# INFO: Adding path point #2 at (-117.500, -64.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-117500, -64000, 0)
+ui().selectPoint(-96500, -56000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-99991, -60171, -84699, -83302, 0)
+ui().selectArea(-99635, -59104, -80254, -84725, 0)
+ui().editMirrorY()
+# INFO: Object mirrored about (-95.500, -70.500)
+ui().selectPoint(-100500, -67000, 0)
+ui().selectArea(-104970, -60171, -85055, -86505, 0)
+ui().selectArea(-109415, -58748, -88611, -83302, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (7.000, 0.000)
+ui().selectPoint(-104500, -60500, 0)
+ui().selectArea(-100990, -60054, -80007, -86033, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, 0.500)
+ui().selectPoint(-95000, -66500, 0)
+ui().selectPoint(-98000, -32000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-102487, -32710, -87195, -56020, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (2.000, 0.000)
+ui().selectArea(-101791, -30638, -82053, -56438, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (8.000, 0.000)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-114.500, -63.500)
+# INFO: Adding path point #2 at (-90.500, -63.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-90500, -63500, 0)
+ui().selectPoint(-86000, -52500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-86.000, -52.500)
+# INFO: Adding path point #2 at (-86.000, -56.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-86000, -56000, 0)
+ui().selectPoint(-86000, -55000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-91476, -31787, -78139, -56519, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (-1.000, 0.000)
+ui().selectPoint(-87500, -53000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-87.500, -53.000)
+# INFO: Adding path point #2 at (-87.500, -63.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-87500, -63000, 0)
+ui().selectPoint(-114000, -30000, 0)
+# INFO: Setting selection mode to FULL
+ui().selectPoint(-114000, -30000, 0)
+ui().editStretch()
+# INFO: 1 Edge(s) stretched by (0.000, -5.500)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-114000, -35500, 0)
+ui().selectPoint(-114000, -18500, 0)
+# INFO: Setting selection mode to PARTIAL
+ui().selectPoint(-114000, -18000, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (0.000, 5.500)
+# INFO: 1 Edge(s) stretched by (0.000, 5.500)
+ui().selectPoint(-87500, -58000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-87.000, -57.500)
+# INFO: Adding path point #2 at (-103.000, -57.500)
+# INFO: Adding path point #3 at (-103.000, -63.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-103000, -63500, 0)
+ui().selectArea(-74455, -59456, -56850, -83301, 0)
+ui().editMirrorX()
+# INFO: Object mirrored about (-67.000, -71.500)
+ui().selectPoint(-69500, -48500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-84.500, -52.500)
+# INFO: Adding path point #2 at (-69.000, -52.500)
+# INFO: Adding path point #3 at (-69.000, -63.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-69000, -63000, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um-drc.py
+# INFO: Read 23 shapes from layer NWL drawing
+# INFO: Read 46 shapes from layer DIFF drawing
+# INFO: Read 23 shapes from layer POL drawing
+# INFO: Read 276 shapes from layer CNT drawing
+# INFO: Read 50 shapes from layer ML1 drawing
+# INFO: Read 84 shapes from layer VIA1 drawing
+# INFO: Read 69 shapes from layer ML2 drawing
+# INFO: Read 23 shapes from layer FRAME drawing
+# INFO: Read 19 shapes from layer Parea drawing
+# INFO: Read 23 shapes from layer Narea drawing
+# INFO: Read 69 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 84 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 11 tasks
+# INFO: Build connectivity took 0.012 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.001 seconds
+# INFO: Total geomConnect time 0.024 seconds
+Check GAP
+Check Overlap
+# INFO: Read 253 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 122 shapes from layer DM_via1 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+# ERROR: No drc marker shapes to view!
+ui().selectArea(-182155, -57964, -134203, -82511, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (12.000, 0.000)
+ui().selectPoint(-151000, -12500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-151.000, -12.500)
+# INFO: Adding path point #2 at (-151.000, -19.000)
+# INFO: Adding path point #3 at (-132.500, -19.000)
+# INFO: Adding path point #4 at (-132.500, -12.000)
+# INFO: Created path with 4 points
+ui().selectPoint(-132500, -12000, 0)
+ui().selectPoint(-133000, -19000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-133.000, -18.500)
+# INFO: Adding path point #2 at (-133.000, -41.500)
+# INFO: Adding path point #3 at (-133.500, -41.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-133500, -41500, 0)
+ui().selectPoint(-132500, -29500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-132500, -19000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-132.500, -19.000)
+# INFO: Adding path point #2 at (-132.500, -63.500)
+# INFO: Adding path point #3 at (-133.000, -63.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-133000, -63500, 0)
+ui().selectPoint(-157000, -79000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-157.000, -79.000)
+# INFO: Adding path point #2 at (-76.000, -79.000)
+# INFO: Adding path point #3 at (-76.000, -85.000)
+# INFO: Adding path point #4 at (-65.000, -85.000)
+# INFO: Adding path point #5 at (-65.000, -79.500)
+# INFO: Created path with 5 points
+ui().selectPoint(-65000, -79500, 0)
+ui().selectPoint(-80000, -79000, 0)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-80000, -79000, 0)
+ui().selectPoint(-146500, -93000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectArea(-123283, -29346, -46696, -83628, 0)
+ui().editMove()
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 12 object(s) moved by delta = (0.000, 8.500)
+ui().selectPoint(-114000, -19500, 0)
+# INFO: Setting selection mode to FULL
+# INFO: Setting selection mode to PARTIAL
+ui().selectPoint(-114000, -35000, 0)
+ui().selectPoint(-114000, -35500, 0)
+ui().editStretch()
+# INFO: Stretching point of vertex by (-0.500, 8.500)
+# INFO: 1 Edge(s) stretched by (-0.500, 8.500)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-114500, -27000, 0)
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um-drc.py
+# INFO: Read 23 shapes from layer NWL drawing
+# INFO: Read 46 shapes from layer DIFF drawing
+# INFO: Read 23 shapes from layer POL drawing
+# INFO: Read 276 shapes from layer CNT drawing
+# INFO: Read 48 shapes from layer ML1 drawing
+# INFO: Read 84 shapes from layer VIA1 drawing
+# INFO: Read 69 shapes from layer ML2 drawing
+# INFO: Read 23 shapes from layer FRAME drawing
+# INFO: Read 19 shapes from layer Parea drawing
+# INFO: Read 23 shapes from layer Narea drawing
+# INFO: Read 69 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 84 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 11 tasks
+# INFO: Build connectivity took 0.011 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.008 seconds
+# INFO: Total geomConnect time 0.029 seconds
+Check GAP
+Check Overlap
+# INFO: Read 253 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 122 shapes from layer DM_via1 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+# ERROR: No drc marker shapes to view!
+ui().selectPoint(-161500, -59000, 0)
+ui().selectArea(-171044, -57933, -126537, -84557, 0)
+ui().editMove()
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a segment, use stretch or select shape in full mode!
+# INFO: 3 object(s) moved by delta = (0.000, 8.000)
+ui().selectPoint(-133000, -63500, 0)
+# INFO: Setting selection mode to FULL
+# INFO: Setting selection mode to PARTIAL
+ui().selectPoint(-132500, -63000, 0)
+ui().editStretch()
+ui().selectPoint(-132500, -64000, 0)
+ui().selectPoint(-132500, -63000, 0)
+ui().editStretch()
+ui().selectPoint(-132500, -36500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-132500, -19000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-132.500, -19.000)
+# INFO: Adding path point #2 at (-132.500, -56.000)
+# INFO: Created path with 2 points
+ui().selectPoint(-132500, -56000, 0)
+ui().openCellView("tsd_core_HEAD", "pch1x10", "layout", 1)
+# INFO: Opened cell pch1x10 view layout
+ui().selectPoint(-114000, -20500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-114.000, -20.500)
+# INFO: Adding path point #2 at (-83.500, -20.500)
+# INFO: Adding path point #3 at (-83.500, -27.500)
+# INFO: Adding path point #4 at (-84.000, -27.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-84000, -27500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-68.500, -13.000)
+# INFO: Adding path point #2 at (-68.500, -18.000)
+# INFO: Adding path point #3 at (-53.500, -18.000)
+# INFO: Adding path point #4 at (-53.500, -13.500)
+# INFO: Adding path point #5 at (-54.000, -13.500)
+# INFO: Created path with 5 points
+ui().selectPoint(-54000, -13500, 0)
+ui().selectPoint(-37500, -14000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-37.500, -14.000)
+# INFO: Adding path point #2 at (-37.500, -19.000)
+# INFO: Adding path point #3 at (-18.000, -19.000)
+# INFO: Adding path point #4 at (-18.000, -13.000)
+# INFO: Adding path point #5 at (-18.500, -13.000)
+# INFO: Created path with 5 points
+ui().selectPoint(-18500, -13000, 0)
+ui().selectPoint(-68500, -18000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-68.500, -18.000)
+# INFO: Adding path point #2 at (-68.500, -44.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-68500, -44500, 0)
+ui().selectPoint(-67500, -35500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-70000, -50000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectArea(-77222, -51844, -49387, -73675, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, 1.000)
+ui().selectArea(-75205, -51035, -43336, -76101, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (0.000, 2.500)
+ui().selectArea(-76818, -48610, -51808, -72462, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (1.500, 0.000)
+ui().selectPoint(-68500, -18000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-68.500, -18.000)
+# INFO: Adding path point #2 at (-68.500, -51.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-68500, -51500, 0)
+ui().selectArea(-70966, -49529, -56444, -72371, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-56.000, -72.500)
+# INFO: Adding path point #2 at (-54.000, -72.500)
+# INFO: Adding path point #3 at (-54.000, -72.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-54000, -72000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectArea(-71571, -49934, -55032, -73382, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-55.000, -73.000)
+# INFO: Adding path point #2 at (-55.000, -70.500)
+# INFO: Adding path point #3 at (-56.000, -70.500)
+# INFO: Created path with 3 points
+ui().selectPoint(-56000, -70500, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectArea(-72176, -50338, -54628, -71360, 0)
+ui().editMove()
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 2 object(s) moved by delta = (0.500, 0.000)
+ui().editUndo()
+# INFO: Undoing last move
+ui().selectArea(-72781, -49529, -55234, -73786, 0)
+ui().editMove()
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 3 object(s) moved by delta = (-1.000, 0.000)
+ui().properties("tsd_core_HEAD", "ko_tsd", "layout")
+ui().selectPoint(-56000, -73000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-157.000, -71.000)
+# INFO: Adding path point #2 at (-72.500, -71.000)
+# INFO: Adding path point #3 at (-72.500, -75.000)
+# INFO: Adding path point #4 at (-65.000, -75.000)
+# INFO: Adding path point #5 at (-65.000, -68.500)
+# INFO: Created path with 5 points
+ui().selectPoint(-65000, -68500, 0)
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um-drc.py
+# INFO: Read 23 shapes from layer NWL drawing
+# INFO: Read 46 shapes from layer DIFF drawing
+# INFO: Read 23 shapes from layer POL drawing
+# INFO: Read 276 shapes from layer CNT drawing
+# INFO: Read 41 shapes from layer ML1 drawing
+# INFO: Read 84 shapes from layer VIA1 drawing
+# INFO: Read 69 shapes from layer ML2 drawing
+# INFO: Read 23 shapes from layer FRAME drawing
+# INFO: Read 19 shapes from layer Parea drawing
+# INFO: Read 23 shapes from layer Narea drawing
+# INFO: Read 69 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 84 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.003 seconds
+# INFO: Building connectivity graph, 11 tasks
+# INFO: Build connectivity took 0.019 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.002 seconds
+# INFO: Total geomConnect time 0.031 seconds
+Check GAP
+Check Overlap
+# INFO: Read 253 shapes from layer DM_dcn drawing
+# INFO: Read 23 shapes from layer DM_pcn drawing
+# INFO: Read 19 shapes from layer DM_nscn drawing
+# INFO: Read 4 shapes from layer DM_pscn drawing
+# INFO: Read 122 shapes from layer DM_via1 drawing
+Check Stacked Con/Via
+Check Width
+Check Enclose
+Check MOS gate extension
+Check stand-alone Cont/Via
+>>> # INFO: DRC run completed.
+ui().verifyDRCView()
+# ERROR: No drc marker shapes to view!
+ui().selectPoint(-98000, 38500, 0)
+ui().fileSaveCell()
+# INFO: Saving cellview Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD/ko_tsd/layout
+ui().fileSaveLib()
+# INFO: Saving library tsd_core_HEAD to Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD
+# INFO: Saving library Z:/home/ko/ALBDATA/Glade/tsd_core_HEAD, version = 540
+Writing cell tsd_core view layout
+Writing cell res98k view layout
+Writing cell res4k view layout
+Writing cell pch1x20 view layout
+Writing cell pch1x10 view layout
+Writing cell ko_tsd view layout
+Writing cell nch1x20 view layout
+Writing cell ko_bgr view layout
+Writing cell res980k view layout
+Writing cell res500 view layout
+Writing cell nch1x10 view layout
+ui().selectPoint(-114500, -17500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-88000, -20500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-114500, -27000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-114.500, -27.500)
+# INFO: Adding path point #2 at (-114.500, -22.500)
+# INFO: Adding path point #3 at (-84.000, -22.500)
+# INFO: Adding path point #4 at (-84.000, -27.500)
+# INFO: Created path with 4 points
+ui().selectPoint(-84000, -27500, 0)
+ui().selectPoint(-92500, -49000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-87500, -50000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-87.500, -50.000)
+# INFO: Adding path point #2 at (-100.500, -50.000)
+# INFO: Adding path point #3 at (-100.500, -55.000)
+# INFO: Created path with 3 points
+ui().selectPoint(-100500, -55000, 0)
+ui().selectArea(-123535, -18839, -84318, -20186, 0)
+ui().selectArea(-167682, -22655, -43084, -81458, 0)
+ui().selectPoint(-43500, -75000, 0)
+ui().selectArea(-165665, -20635, -39498, -76521, 0)
+ui().editMove()
+# WARNING: Vertices cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a vertex, use stretch or select shape in full mode!
+# INFO: 15 object(s) moved by delta = (0.500, 0.000)
+ui().editUndo()
+# INFO: Undoing last move
+ui().selectPoint(-26000, -42000, 0)
+ui().openCellView("tsd_core_HEAD", "tsd_core", "layout", 1)
+# INFO: Opened cell tsd_core view layout
+ui().selectPoint(-125000, 45500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-125000, 9500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-26000, -19500, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-60500, -18000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-141500, -20000, 0)
+# INFO: Deleting 1 object(s)
+ui().selectPoint(-131500, -29500, 0)
+ui().selectArea(-131626, -26259, -36283, -29639, 0)
+ui().selectArea(-162025, 38210, -156540, -22210, 0)
+ui().selectArea(-158650, 51519, -135447, -16928, 0)
+ui().editMove()
+# WARNING: Segments cannot be moved - use stretch or select shape in full mode!
+# WARNING: Can't move a segment, use stretch or select shape in full mode!
+# INFO: 9 object(s) moved by delta = (7.500, 0.000)
+ui().selectPoint(-127500, 53000, 0)
+ui().editUndo()
+# INFO: Undoing last move
+ui().openCellView("tsd_core_HEAD", "ko_tsdnew", "layout", 1)
+# INFO: Opened cell ko_tsdnew view layout
+# INFO: Creating instance I0 (master tsd_core_HEAD nch1x10 layout) origin (12.000 6.000) orientation R0
+ui().selectArea(768, 25293, 24986, 842, 0)
+ui().editMove()
+# INFO: 1 object(s) moved by delta = (0.000, -34.500)
+# INFO: 1 object(s) copied with delta = (16.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(6237, 24902, 11315, 22750, 0)
+ui().properties("tsd_core_HEAD", "ko_tsdnew", "layout")
+ui().selectPoint(11500, 23000, 0)
+ui().zoomIn(14049, 23728, 14244, 23532)
+ui().selectPoint(14500, 16500, 0)
+# INFO: Creating instance I2 (master tsd_core_HEAD pch1x10 layout) origin (33.500 54.500) orientation R0
+ui().selectArea(28087, 77834, 45425, 50340, 0)
+ui().editMirrorY()
+ui().editMirrorX()
+# INFO: Object mirrored about (37.000, 64.000)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (0.000, -24.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(28252, 74184, 49255, 24549, 0)
+ui().editCopy()
+# INFO: 2 object(s) copied with delta = (15.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(38000, 63500, 0)
+ui().selectArea(23277, 75840, 48255, 27196, 0)
+ui().editCopy()
+# INFO: 2 object(s) copied with delta = (-18.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 2 object(s) copied with delta = (-17.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 2 object(s) copied with delta = (3.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editUndo()
+# INFO: Undoing last copy
+ui().selectArea(-11877, 79546, 68145, 23027, 0)
+ui().editCopy()
+# INFO: 8 object(s) copied with delta = (-65.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectArea(-71592, 50015, 59685, 27768, 0)
+ui().selectPoint(69000, 34500, 0)
+ui().selectArea(45312, 77864, 59462, 24666, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (-4.500, 0.000)
+ui().selectArea(11135, 74376, 27244, 27283, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (7.000, 0.000)
+ui().selectArea(-6714, 74376, 12659, 26193, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (13.500, 0.000)
+ui().selectArea(-21082, 73722, -3014, 26629, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (17.000, 0.000)
+ui().selectArea(-35885, 75248, -16075, 24448, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (21.000, 0.000)
+ui().selectArea(-55477, 76120, -30442, 25974, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (28.000, 0.000)
+ui().selectArea(-71368, 75248, -55694, 22050, 0)
+ui().editMove()
+# INFO: 2 object(s) moved by delta = (34.000, 0.000)
+ui().selectArea(-36756, 49957, 55761, 26410, 0)
+ui().editMove()
+# INFO: 8 object(s) moved by delta = (0.000, -2.000)
+ui().selectArea(-41463, 76120, 57953, 50907, 0)
+ui().editMirrorX()
+# INFO: Object mirrored about (10.000, 63.500)
+ui().selectPoint(100000, 57500, 0)
+# INFO: Set current layer to ML2 drawing
+ui().selectPoint(-31000, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-31.000, 55.500)
+# INFO: Adding path point #2 at (-31.000, 50.500)
+# INFO: Adding path point #3 at (61.000, 50.500)
+# INFO: Created path with 3 points
+ui().selectPoint(61000, 50500, 0)
+ui().selectPoint(-20000, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-20.000, 55.500)
+# INFO: Adding path point #2 at (-20.000, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-20000, 45500, 0)
+ui().selectPoint(-9000, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-9.000, 55.500)
+# INFO: Adding path point #2 at (-9.000, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-9000, 45500, 0)
+ui().selectPoint(2500, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (2.500, 55.500)
+# INFO: Adding path point #2 at (2.500, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(2500, 45500, 0)
+ui().selectPoint(14000, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (14.000, 55.500)
+# INFO: Adding path point #2 at (14.000, 45.000)
+# INFO: Adding path point #3 at (14.000, 45.500)
+# INFO: Created path with 3 points
+ui().selectPoint(14000, 45500, 0)
+ui().selectPoint(14000, 45500, 0)
+ui().selectPoint(-31000, 50500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-31.000, 50.500)
+# INFO: Adding path point #2 at (-31.000, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-31000, 45500, 0)
+ui().selectPoint(24500, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (24.500, 55.500)
+# INFO: Adding path point #2 at (24.500, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(24500, 45500, 0)
+ui().selectPoint(24500, 45500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsdnew", "layout")
+ui().selectPoint(24500, 45500, 0)
+ui().selectPoint(35500, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (35.500, 55.500)
+# INFO: Adding path point #2 at (35.500, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(35500, 45500, 0)
+ui().selectPoint(46500, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (46.500, 55.500)
+# INFO: Adding path point #2 at (46.500, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(46500, 45500, 0)
+# INFO: Set current layer to ML1 drawing
+ui().selectPoint(-31500, 72000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-31.500, 72.000)
+# ERROR: Path has 1 points - will not be created!
+ui().selectPoint(-31500, 72000, 0)
+ui().selectPoint(-31500, 72000, 0)
+ui().editUndo()
+# INFO: Undoing last create
+ui().selectPoint(-31500, 72000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-31.500, 72.000)
+# INFO: Adding path point #2 at (-31.500, 80.500)
+# INFO: Adding path point #3 at (64.000, 80.500)
+# INFO: Created path with 3 points
+ui().selectPoint(64000, 80500, 0)
+ui().selectPoint(-27500, 72000, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (-27.500, 72.000)
+# INFO: Adding path point #2 at (-27.500, 80.500)
+# INFO: Created path with 2 points
+ui().selectPoint(-27500, 80500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (7.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (7.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (7.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (7.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (7.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editUndo()
+# INFO: Undoing last copy
+ui().selectPoint(17000, 76500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (6.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (7.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (4.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (7.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(46500, 75500, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (26.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().selectPoint(46500, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (46.500, 55.500)
+# INFO: Adding path point #2 at (46.500, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(46500, 45500, 0)
+ui().selectPoint(46500, 52500, 0)
+ui().properties("tsd_core_HEAD", "ko_tsdnew", "layout")
+ui().selectPoint(46500, 52500, 0)
+# INFO: Changed layer from ML1 drawing to ML2 drawing
+# INFO: Set current layer to ML1 drawing
+ui().selectPoint(49500, 55500, 0)
+ui().editCreatePath()
+# INFO: Adding path point #1 at (49.500, 55.000)
+# INFO: Adding path point #2 at (49.500, 45.500)
+# INFO: Created path with 2 points
+ui().selectPoint(49500, 45500, 0)
+ui().selectPoint(49500, 52000, 0)
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-10.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.500, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().editCopy()
+# INFO: 1 object(s) copied with delta = (-11.000, 0.000), 1 rows 1 cols 0.000 row spacing 0.000 col spacing
+ui().verifyDRCRun()
+Run DRC using rules file Z:/usr/local/share/MakeLSI/OpenRule1um/OpenRule1um-drc.py
+# INFO: Read 18 shapes from layer NWL drawing
+# INFO: Read 36 shapes from layer DIFF drawing
+# INFO: Read 18 shapes from layer POL drawing
+# INFO: Read 216 shapes from layer CNT drawing
+# INFO: Read 47 shapes from layer ML1 drawing
+# INFO: Read 68 shapes from layer VIA1 drawing
+# INFO: Read 53 shapes from layer ML2 drawing
+# INFO: Read 18 shapes from layer FRAME drawing
+# INFO: Read 16 shapes from layer Parea drawing
+# INFO: Read 18 shapes from layer Narea drawing
+# INFO: Read 54 shapes from layer DM_dcn drawing
+# INFO: Read 18 shapes from layer DM_pcn drawing
+# INFO: Read 16 shapes from layer DM_nscn drawing
+# INFO: Read 2 shapes from layer DM_pscn drawing
+# INFO: Read 68 shapes from layer DM_via1 drawing
+# INFO: Connectivity analysis may use 6 threads
+# INFO: Set up tasks took 0.005 seconds
+# INFO: Building connectivity graph, 11 tasks
+# INFO: Build connectivity took 0.015 seconds
+# INFO: Extract connectivity graph...
+# INFO: Graph search took 0.005 seconds
+# INFO: Total geomConnect time 0.034 seconds
+Check GAP
